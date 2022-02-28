@@ -372,7 +372,7 @@
       "gencad": "Macro Pad.cad",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "../../../../../Downloads/Macro Pad.dsn",
+      "specctra_dsn": "Macro Pad.dsn",
       "step": "Macro Pad.step",
       "vrml": ""
     },

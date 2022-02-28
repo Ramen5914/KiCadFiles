@@ -379,7 +379,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "../../../../../Downloads/",
-      "specctra_dsn": "../../../../../Downloads/Ramen Board.dsn",
+      "specctra_dsn": "Ramen Board.dsn",
       "step": "",
       "vrml": ""
     },
