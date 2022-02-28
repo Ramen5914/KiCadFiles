@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N4448W-TP
+D 1N4448W-TP
+F http://www.mccsemi.com/up_pdf/1N4448W(SOD-123).pdf
+$ENDCMP
+# end doc library

@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP ATMEGA32U4-AUR
+D 8-bit Microcontrollers - MCU USB 32K Flash 16 MHz
+K
+F 
+$ENDCMP
+#
+$CMP BC065-06-A-L-D
+D BOARD-BOARD CONNECTOR SOCKET, 6WAY, 1ROW; Connector Systems:Board-to-Board; Pitch Spacing:1mm; No. of Rows:1Rows; No. of Contacts:6Contacts; Connector Mounting:Through Hole Mount; Product Range:BC065 Series; Gender:Receptacle RoHS Compliant: Yes
+K
+F http://datasheet.octopart.com/BC065-06-A-L-D-Global-Connector-Technology-datasheet-8766089.pdf
+$ENDCMP
+#
+$CMP KTR10EZPF5101
+D Thick Film Resistors - SMD 0805 5.1Kohm 1% High VoltageAEC-Q200
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-18/356469.pdf
+$ENDCMP
+#
+$CMP C0805C220J5GAC
+D Cap Ceramic 22pF 50V C0G 5% Pad SMD 0805 125C Extreme Low ESR Bag
+K
+F https://www.kemet.com/specsheet/C0805C220J5GACTU
+$ENDCMP
+#
+$CMP TL3342F160QG
+D E-SWITCH - TL3342F160QG - SWITCH, TACTILE, SPST-NO, 50mA, 12VDC
+K
+F https://componentsearchengine.com/Datasheets/1/TL3342F160QG.pdf
+$ENDCMP
+#
+$CMP FA-238_16.0000MB-C3
+D Crystals 16MHz 50PPM -20C +70C 18.0pF
+K
+F https://support.epson.biz/td/api/doc_check.php?dl=brief_FA-238&lang=en
+$ENDCMP
+#
+#End Doc Library

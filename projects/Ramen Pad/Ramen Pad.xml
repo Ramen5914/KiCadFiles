@@ -1,0 +1,1554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\spide\Documents\KiCad\6.0\projects\Macro Pad\Macro Pad.kicad_sch</source>
+    <date>1/29/2022 11:48:32 AM</date>
+    <tool>Eeschema (6.0.1)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Macro Pad</title>
+        <company>Omar Rahman</company>
+        <rev>v1.0.0</rev>
+        <date>2022-01-23</date>
+        <source>Macro Pad.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>22p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>981a5b1e-1c61-4fd5-af01-bc87507260a4</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>22p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2bd13060-558e-4715-9d77-c83f1a5e0fc7</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9175a5fc-0838-4805-9149-d412e4fefd0b</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7fe23f41-0994-4eec-8fbd-6937338cacba</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f73e368-7db0-4821-b0cf-caab810fc871</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97cbbd49-71d6-4f82-a3ef-f196a389452e</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7758f4fd-e45a-4db6-8bbc-cb20641b3713</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eabf9f33-20bc-4c68-bd76-91525f61d6e5</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3568905-d65f-4f90-9194-26510dbd6846</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8c2e8b3-a5f7-4b75-a0f1-ca80efc7bee8</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5fd173e8-ba4e-4200-9245-03c3fbd22174</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a16a0501-76c1-4992-b27f-8c84daabfe0e</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>801de614-5ab9-4197-b01d-85342d539c74</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd050df3-29a5-4fb4-a7fd-8db645dbdfa3</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d31e61c7-5b91-4942-9d54-315997a7f15f</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e50424c8-9022-4e48-bd23-e2ff89de4c3f</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54f4ce73-77d5-46d4-987e-87bdb5c3e2ad</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd2610b3-3e67-4a82-a655-640064941bcd</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>788deebb-50d2-45b5-b612-a4c2a132f820</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44041749-0b67-408b-87ec-fba57c884363</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46341e99-d0b1-45a4-85e5-18e0215eae49</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86766cdb-0659-4685-bcc8-3890877953fe</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c345267-c4a6-4454-8d20-21c628ad1911</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98f57530-a243-4482-97fb-e7c7c4233157</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74da0e25-3472-4df1-b3ae-9926856623c0</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_C_Receptacle_USB2.0</value>
+      <footprint>Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12</footprint>
+      <datasheet>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</datasheet>
+      <libsource lib="Connector" part="USB_C_Receptacle_USB2.0" description="USB 2.0-only Type-C Receptacle connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af41c473-c117-4dfc-88bc-18e5da3608db</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_MX_platemount</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43fc88b0-2581-4161-86d0-f2b7ddf2e4ca</tstamps>
+    </comp>
+    <comp ref="K2">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_MX_platemount</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b877f307-49ff-4d58-a527-ffe5db0d2cee</tstamps>
+    </comp>
+    <comp ref="K3">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_MX_platemount</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>024d4e4f-872a-4191-a4bb-2a4c9ddda7c1</tstamps>
+    </comp>
+    <comp ref="K4">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_MX_platemount</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>803e9b4f-7806-41fd-a8f4-c2cb3da5bebe</tstamps>
+    </comp>
+    <comp ref="K5">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_MX_platemount</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>261aa64d-c168-4e2e-8df6-b86424689a30</tstamps>
+    </comp>
+    <comp ref="K6">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_MX_platemount</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7295c450-af34-4ead-95fb-cc824b83d378</tstamps>
+    </comp>
+    <comp ref="K7">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_MX_platemount</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f3cd864-501b-43f9-90c2-904666f41014</tstamps>
+    </comp>
+    <comp ref="K8">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_MX_platemount</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a98182b-8ff7-4c75-9f18-7f593bf191d4</tstamps>
+    </comp>
+    <comp ref="K9">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_MX_platemount</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>524670ec-c913-4797-8c96-e6f18c3d8e3b</tstamps>
+    </comp>
+    <comp ref="K10">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_MX_platemount</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fce95e1-edc6-49b3-8166-d0464484e164</tstamps>
+    </comp>
+    <comp ref="K11">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_MX_platemount</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4144bd5a-b19f-4bda-9741-57670c9b0841</tstamps>
+    </comp>
+    <comp ref="K12">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_MX_platemount</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcabcaeb-fe09-4ac8-b57e-369c9887a6f6</tstamps>
+    </comp>
+    <comp ref="K13">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_MX_platemount</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>091e42f6-d7ac-4b51-9435-097b7fa3d975</tstamps>
+    </comp>
+    <comp ref="K14">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_MX_platemount</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8265e15-facc-4096-8b62-e8d80c6b1a1b</tstamps>
+    </comp>
+    <comp ref="K15">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_MX_platemount</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>671f56eb-9ec0-4c9c-b760-ddc8a759387f</tstamps>
+    </comp>
+    <comp ref="K16">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_MX_platemount</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ccb3f54c-8abe-4c2b-a7b1-5f5e0daaf93e</tstamps>
+    </comp>
+    <comp ref="K17">
+      <value>KEYSW</value>
+      <footprint>keyswitches:Kailh_socket_MX_platemount</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d848cf6f-0548-4016-bba4-ddea192c9789</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>SK6812MINI-E</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf</datasheet>
+      <fields>
+        <field name="Description">3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)</field>
+        <field name="Height">1.88</field>
+        <field name="Manufacturer_Name">Yellow Stone Corp.</field>
+        <field name="Manufacturer_Part_Number">SK6812MINI-E</field>
+      </fields>
+      <libsource lib="SK6812MINI-E" part="SK6812MINI-E" description="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Description" value="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Height" value="1.88"/>
+      <property name="Manufacturer_Name" value="Yellow Stone Corp."/>
+      <property name="Manufacturer_Part_Number" value="SK6812MINI-E"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55d4931b-a328-46f1-91d2-476fa187d3c0</tstamps>
+    </comp>
+    <comp ref="LED2">
+      <value>SK6812MINI-E</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf</datasheet>
+      <fields>
+        <field name="Description">3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)</field>
+        <field name="Height">1.88</field>
+        <field name="Manufacturer_Name">Yellow Stone Corp.</field>
+        <field name="Manufacturer_Part_Number">SK6812MINI-E</field>
+      </fields>
+      <libsource lib="SK6812MINI-E" part="SK6812MINI-E" description="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Description" value="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Height" value="1.88"/>
+      <property name="Manufacturer_Name" value="Yellow Stone Corp."/>
+      <property name="Manufacturer_Part_Number" value="SK6812MINI-E"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2eca871a-0a05-470c-b142-6f054a016683</tstamps>
+    </comp>
+    <comp ref="LED3">
+      <value>SK6812MINI-E</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf</datasheet>
+      <fields>
+        <field name="Description">3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)</field>
+        <field name="Height">1.88</field>
+        <field name="Manufacturer_Name">Yellow Stone Corp.</field>
+        <field name="Manufacturer_Part_Number">SK6812MINI-E</field>
+      </fields>
+      <libsource lib="SK6812MINI-E" part="SK6812MINI-E" description="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Description" value="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Height" value="1.88"/>
+      <property name="Manufacturer_Name" value="Yellow Stone Corp."/>
+      <property name="Manufacturer_Part_Number" value="SK6812MINI-E"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b960ccd-ce05-4ff4-997b-1275b27bc1d4</tstamps>
+    </comp>
+    <comp ref="LED4">
+      <value>SK6812MINI-E</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf</datasheet>
+      <fields>
+        <field name="Description">3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)</field>
+        <field name="Height">1.88</field>
+        <field name="Manufacturer_Name">Yellow Stone Corp.</field>
+        <field name="Manufacturer_Part_Number">SK6812MINI-E</field>
+      </fields>
+      <libsource lib="SK6812MINI-E" part="SK6812MINI-E" description="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Description" value="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Height" value="1.88"/>
+      <property name="Manufacturer_Name" value="Yellow Stone Corp."/>
+      <property name="Manufacturer_Part_Number" value="SK6812MINI-E"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8847681f-74c6-491d-a1e6-64570e6f9b37</tstamps>
+    </comp>
+    <comp ref="LED5">
+      <value>SK6812MINI-E</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf</datasheet>
+      <fields>
+        <field name="Description">3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)</field>
+        <field name="Height">1.88</field>
+        <field name="Manufacturer_Name">Yellow Stone Corp.</field>
+        <field name="Manufacturer_Part_Number">SK6812MINI-E</field>
+      </fields>
+      <libsource lib="SK6812MINI-E" part="SK6812MINI-E" description="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Description" value="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Height" value="1.88"/>
+      <property name="Manufacturer_Name" value="Yellow Stone Corp."/>
+      <property name="Manufacturer_Part_Number" value="SK6812MINI-E"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d9f888f-1f71-46b8-89c2-9176d538d618</tstamps>
+    </comp>
+    <comp ref="LED6">
+      <value>SK6812MINI-E</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf</datasheet>
+      <fields>
+        <field name="Description">3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)</field>
+        <field name="Height">1.88</field>
+        <field name="Manufacturer_Name">Yellow Stone Corp.</field>
+        <field name="Manufacturer_Part_Number">SK6812MINI-E</field>
+      </fields>
+      <libsource lib="SK6812MINI-E" part="SK6812MINI-E" description="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Description" value="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Height" value="1.88"/>
+      <property name="Manufacturer_Name" value="Yellow Stone Corp."/>
+      <property name="Manufacturer_Part_Number" value="SK6812MINI-E"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7648e881-c67a-4882-9e85-e532f7670785</tstamps>
+    </comp>
+    <comp ref="LED7">
+      <value>SK6812MINI-E</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf</datasheet>
+      <fields>
+        <field name="Description">3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)</field>
+        <field name="Height">1.88</field>
+        <field name="Manufacturer_Name">Yellow Stone Corp.</field>
+        <field name="Manufacturer_Part_Number">SK6812MINI-E</field>
+      </fields>
+      <libsource lib="SK6812MINI-E" part="SK6812MINI-E" description="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Description" value="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Height" value="1.88"/>
+      <property name="Manufacturer_Name" value="Yellow Stone Corp."/>
+      <property name="Manufacturer_Part_Number" value="SK6812MINI-E"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad472e32-5a86-4eee-b1f8-68f31ba97a79</tstamps>
+    </comp>
+    <comp ref="LED8">
+      <value>SK6812MINI-E</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf</datasheet>
+      <fields>
+        <field name="Description">3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)</field>
+        <field name="Height">1.88</field>
+        <field name="Manufacturer_Name">Yellow Stone Corp.</field>
+        <field name="Manufacturer_Part_Number">SK6812MINI-E</field>
+      </fields>
+      <libsource lib="SK6812MINI-E" part="SK6812MINI-E" description="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Description" value="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Height" value="1.88"/>
+      <property name="Manufacturer_Name" value="Yellow Stone Corp."/>
+      <property name="Manufacturer_Part_Number" value="SK6812MINI-E"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca486536-8e47-47da-a6de-53bfe572027b</tstamps>
+    </comp>
+    <comp ref="LED9">
+      <value>SK6812MINI-E</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf</datasheet>
+      <fields>
+        <field name="Description">3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)</field>
+        <field name="Height">1.88</field>
+        <field name="Manufacturer_Name">Yellow Stone Corp.</field>
+        <field name="Manufacturer_Part_Number">SK6812MINI-E</field>
+      </fields>
+      <libsource lib="SK6812MINI-E" part="SK6812MINI-E" description="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Description" value="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Height" value="1.88"/>
+      <property name="Manufacturer_Name" value="Yellow Stone Corp."/>
+      <property name="Manufacturer_Part_Number" value="SK6812MINI-E"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f54c3989-5dba-426f-ad98-e2ed9d9b06ae</tstamps>
+    </comp>
+    <comp ref="LED10">
+      <value>SK6812MINI-E</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf</datasheet>
+      <fields>
+        <field name="Description">3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)</field>
+        <field name="Height">1.88</field>
+        <field name="Manufacturer_Name">Yellow Stone Corp.</field>
+        <field name="Manufacturer_Part_Number">SK6812MINI-E</field>
+      </fields>
+      <libsource lib="SK6812MINI-E" part="SK6812MINI-E" description="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Description" value="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Height" value="1.88"/>
+      <property name="Manufacturer_Name" value="Yellow Stone Corp."/>
+      <property name="Manufacturer_Part_Number" value="SK6812MINI-E"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9985217f-e983-4632-818b-eb1d6d59077c</tstamps>
+    </comp>
+    <comp ref="LED11">
+      <value>SK6812MINI-E</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf</datasheet>
+      <fields>
+        <field name="Description">3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)</field>
+        <field name="Height">1.88</field>
+        <field name="Manufacturer_Name">Yellow Stone Corp.</field>
+        <field name="Manufacturer_Part_Number">SK6812MINI-E</field>
+      </fields>
+      <libsource lib="SK6812MINI-E" part="SK6812MINI-E" description="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Description" value="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Height" value="1.88"/>
+      <property name="Manufacturer_Name" value="Yellow Stone Corp."/>
+      <property name="Manufacturer_Part_Number" value="SK6812MINI-E"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2be37d2-4665-472d-aeb2-918984ec2b07</tstamps>
+    </comp>
+    <comp ref="LED12">
+      <value>SK6812MINI-E</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf</datasheet>
+      <fields>
+        <field name="Description">3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)</field>
+        <field name="Height">1.88</field>
+        <field name="Manufacturer_Name">Yellow Stone Corp.</field>
+        <field name="Manufacturer_Part_Number">SK6812MINI-E</field>
+      </fields>
+      <libsource lib="SK6812MINI-E" part="SK6812MINI-E" description="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Description" value="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Height" value="1.88"/>
+      <property name="Manufacturer_Name" value="Yellow Stone Corp."/>
+      <property name="Manufacturer_Part_Number" value="SK6812MINI-E"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9aa0dd4-ae1c-486d-a627-3b457233c84c</tstamps>
+    </comp>
+    <comp ref="LED13">
+      <value>SK6812MINI-E</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf</datasheet>
+      <fields>
+        <field name="Description">3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)</field>
+        <field name="Height">1.88</field>
+        <field name="Manufacturer_Name">Yellow Stone Corp.</field>
+        <field name="Manufacturer_Part_Number">SK6812MINI-E</field>
+      </fields>
+      <libsource lib="SK6812MINI-E" part="SK6812MINI-E" description="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Description" value="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Height" value="1.88"/>
+      <property name="Manufacturer_Name" value="Yellow Stone Corp."/>
+      <property name="Manufacturer_Part_Number" value="SK6812MINI-E"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6bce0fb7-07af-4064-987b-2dbf15a62689</tstamps>
+    </comp>
+    <comp ref="LED14">
+      <value>SK6812MINI-E</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf</datasheet>
+      <fields>
+        <field name="Description">3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)</field>
+        <field name="Height">1.88</field>
+        <field name="Manufacturer_Name">Yellow Stone Corp.</field>
+        <field name="Manufacturer_Part_Number">SK6812MINI-E</field>
+      </fields>
+      <libsource lib="SK6812MINI-E" part="SK6812MINI-E" description="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Description" value="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Height" value="1.88"/>
+      <property name="Manufacturer_Name" value="Yellow Stone Corp."/>
+      <property name="Manufacturer_Part_Number" value="SK6812MINI-E"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d61a87b-0f17-41ad-bd0d-931321eb0e71</tstamps>
+    </comp>
+    <comp ref="LED15">
+      <value>SK6812MINI-E</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf</datasheet>
+      <fields>
+        <field name="Description">3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)</field>
+        <field name="Height">1.88</field>
+        <field name="Manufacturer_Name">Yellow Stone Corp.</field>
+        <field name="Manufacturer_Part_Number">SK6812MINI-E</field>
+      </fields>
+      <libsource lib="SK6812MINI-E" part="SK6812MINI-E" description="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Description" value="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Height" value="1.88"/>
+      <property name="Manufacturer_Name" value="Yellow Stone Corp."/>
+      <property name="Manufacturer_Part_Number" value="SK6812MINI-E"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f4ac4db-89e6-4ef3-9147-def19a2829d5</tstamps>
+    </comp>
+    <comp ref="LED16">
+      <value>SK6812MINI-E</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf</datasheet>
+      <fields>
+        <field name="Description">3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)</field>
+        <field name="Height">1.88</field>
+        <field name="Manufacturer_Name">Yellow Stone Corp.</field>
+        <field name="Manufacturer_Part_Number">SK6812MINI-E</field>
+      </fields>
+      <libsource lib="SK6812MINI-E" part="SK6812MINI-E" description="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Description" value="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Height" value="1.88"/>
+      <property name="Manufacturer_Name" value="Yellow Stone Corp."/>
+      <property name="Manufacturer_Part_Number" value="SK6812MINI-E"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb08a621-f31b-489d-8c64-18aac9c5d800</tstamps>
+    </comp>
+    <comp ref="LED17">
+      <value>SK6812MINI-E</value>
+      <footprint>Keebio-Parts:SK6812-MINI-E</footprint>
+      <datasheet>http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf</datasheet>
+      <fields>
+        <field name="Description">3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)</field>
+        <field name="Height">1.88</field>
+        <field name="Manufacturer_Name">Yellow Stone Corp.</field>
+        <field name="Manufacturer_Part_Number">SK6812MINI-E</field>
+      </fields>
+      <libsource lib="SK6812MINI-E" part="SK6812MINI-E" description="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Description" value="3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)"/>
+      <property name="Height" value="1.88"/>
+      <property name="Manufacturer_Name" value="Yellow Stone Corp."/>
+      <property name="Manufacturer_Part_Number" value="SK6812MINI-E"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1eaa14a3-776e-46da-a877-c97807461687</tstamps>
+    </comp>
+    <comp ref="P1">
+      <value>CONN_3X2</value>
+      <footprint>Connector_PinSocket_1.00mm:PinSocket_1x06_P1.00mm_Vertical</footprint>
+      <libsource lib="keyboard_parts" part="CONN_3X2" description="Symbole general de connecteur"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7cc1e145-e9b9-40bb-a787-69cbf80db921</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70f9f86c-ba02-451c-8ed2-22097c112138</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8e8f8ce-db06-47ec-ae11-bca9f8944ef7</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b61dba3-b03e-43e9-b2ce-cb65b3986ec1</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>723a5241-67dd-4132-b24f-513b5aa2fd97</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>366ff8d4-457d-4a1d-83d0-7cd0f50905fb</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0fdaa57-79b2-4646-b7e4-c7963244ea9c</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>Reset</value>
+      <footprint>Button_Switch_SMD:SW_SPST_TL3342</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89fac74a-4b09-4745-b352-400ebf5d226f</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ATMEGA32U4</value>
+      <footprint>Package_QFP:TQFP-44_10x10mm_P0.8mm</footprint>
+      <libsource lib="keyboard_parts" part="ATMEGA32U4" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5a85615-8632-482a-9747-9cba01e76236</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>FA-238_16.0000MB-C3</value>
+      <footprint>FA_238:FA238160000MBC3</footprint>
+      <datasheet>https://support.epson.biz/td/api/doc_check.php?dl=brief_FA-238&amp;lang=en</datasheet>
+      <fields>
+        <field name="Description">Crystals 16MHz 50PPM -20C +70C 18.0pF</field>
+        <field name="Height">0.7</field>
+        <field name="Manufacturer_Name">Epson Timing</field>
+        <field name="Manufacturer_Part_Number">FA-238 16.0000MB-C3</field>
+        <field name="Mouser Part Number">732-FA-23816B-C3</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Epson-Timing/FA-238-160000MB-C3?qs=csoGsJbXmtALht67E3DnCg%3D%3D</field>
+      </fields>
+      <libsource lib="FA-238_16.0000MB-C3" part="FA-238_16.0000MB-C3" description="Crystals 16MHz 50PPM -20C +70C 18.0pF"/>
+      <property name="Description" value="Crystals 16MHz 50PPM -20C +70C 18.0pF"/>
+      <property name="Height" value="0.7"/>
+      <property name="Manufacturer_Name" value="Epson Timing"/>
+      <property name="Manufacturer_Part_Number" value="FA-238 16.0000MB-C3"/>
+      <property name="Mouser Part Number" value="732-FA-23816B-C3"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Epson-Timing/FA-238-160000MB-C3?qs=csoGsJbXmtALht67E3DnCg%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd57bb6f-341b-4ea8-a11e-02b50eeeded7</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="USB_C_Receptacle_USB2.0">
+      <description>USB 2.0-only Type-C Receptacle connector</description>
+      <docs>https://www.usb.org/sites/default/files/documents/usb_type-c.zip</docs>
+      <footprints>
+        <fp>USB*C*Receptacle*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_C_Receptacle_USB2.0</field>
+        <field name="Datasheet">https://www.usb.org/sites/default/files/documents/usb_type-c.zip</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="passive"/>
+        <pin num="A4" name="VBUS" type="passive"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="D+" type="bidirectional"/>
+        <pin num="A7" name="D-" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="A9" name="VBUS" type="passive"/>
+        <pin num="A12" name="GND" type="passive"/>
+        <pin num="B1" name="GND" type="passive"/>
+        <pin num="B4" name="VBUS" type="passive"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="D+" type="bidirectional"/>
+        <pin num="B7" name="D-" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="B9" name="VBUS" type="passive"/>
+        <pin num="B12" name="GND" type="passive"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="FA-238_16.0000MB-C3" part="FA-238_16.0000MB-C3">
+      <description>Crystals 16MHz 50PPM -20C +70C 18.0pF</description>
+      <docs>https://support.epson.biz/td/api/doc_check.php?dl=brief_FA-238&amp;lang=en</docs>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">FA-238_16.0000MB-C3</field>
+        <field name="Footprint">FA238160000MBC3</field>
+        <field name="Datasheet">https://support.epson.biz/td/api/doc_check.php?dl=brief_FA-238&amp;lang=en</field>
+        <field name="Description">Crystals 16MHz 50PPM -20C +70C 18.0pF</field>
+        <field name="Height">0.7</field>
+        <field name="Manufacturer_Name">Epson Timing</field>
+        <field name="Manufacturer_Part_Number">FA-238 16.0000MB-C3</field>
+        <field name="Mouser Part Number">732-FA-23816B-C3</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Epson-Timing/FA-238-160000MB-C3?qs=csoGsJbXmtALht67E3DnCg%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CRYSTAL_1" type="passive"/>
+        <pin num="2" name="GND_1" type="passive"/>
+        <pin num="3" name="CRYSTAL_2" type="passive"/>
+        <pin num="4" name="GND_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SK6812MINI-E" part="SK6812MINI-E">
+      <description>3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)</description>
+      <docs>http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf</docs>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">SK6812MINI-E</field>
+        <field name="Footprint">SK6812MINIE</field>
+        <field name="Datasheet">http://yushakobo.jp/ds/YS-SK6812MINI-E.pdf</field>
+        <field name="Description">3.2x2.8x1.78 mm 0.2W Intelligent external control surface mount SMD LED (MSL:5a)</field>
+        <field name="Height">1.88</field>
+        <field name="Manufacturer_Name">Yellow Stone Corp.</field>
+        <field name="Manufacturer_Part_Number">SK6812MINI-E</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="passive"/>
+        <pin num="2" name="DOUT" type="passive"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="DIN" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="ATMEGA32U4">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATMEGA32U4</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PE6/AIN0" type="bidirectional"/>
+        <pin num="2" name="UVcc" type="power_in"/>
+        <pin num="3" name="D-" type="bidirectional"/>
+        <pin num="4" name="D+" type="bidirectional"/>
+        <pin num="5" name="UGnd" type="power_in"/>
+        <pin num="6" name="UCap" type="input"/>
+        <pin num="7" name="VBus" type="input"/>
+        <pin num="8" name="PB0/SS" type="bidirectional"/>
+        <pin num="9" name="PB1/SCK" type="bidirectional"/>
+        <pin num="10" name="PB2/MOSI" type="bidirectional"/>
+        <pin num="11" name="PB3/MISO" type="bidirectional"/>
+        <pin num="12" name="PB7/~{RTS}" type="bidirectional"/>
+        <pin num="13" name="~{RESET}" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="XTAL1" type="input"/>
+        <pin num="17" name="XTAL2" type="output"/>
+        <pin num="18" name="PD0/INT0" type="bidirectional"/>
+        <pin num="19" name="PD1/INT1" type="bidirectional"/>
+        <pin num="20" name="PD2/RXD1" type="bidirectional"/>
+        <pin num="21" name="PD3/TXD1" type="bidirectional"/>
+        <pin num="22" name="PD5/XCK1" type="bidirectional"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="AVCC" type="power_in"/>
+        <pin num="25" name="ICP1/PD4" type="bidirectional"/>
+        <pin num="26" name="T1/PD6" type="bidirectional"/>
+        <pin num="27" name="T0/PD7" type="bidirectional"/>
+        <pin num="28" name="PB4" type="bidirectional"/>
+        <pin num="29" name="PB5" type="bidirectional"/>
+        <pin num="30" name="PB6" type="bidirectional"/>
+        <pin num="31" name="PC6" type="bidirectional"/>
+        <pin num="32" name="PC7" type="bidirectional"/>
+        <pin num="33" name="~{HWB/PE2}" type="bidirectional"/>
+        <pin num="34" name="VCC" type="power_in"/>
+        <pin num="35" name="GND" type="power_in"/>
+        <pin num="36" name="PF7" type="bidirectional"/>
+        <pin num="37" name="PF6" type="bidirectional"/>
+        <pin num="38" name="PF5" type="bidirectional"/>
+        <pin num="39" name="PF4" type="bidirectional"/>
+        <pin num="40" name="PF1" type="bidirectional"/>
+        <pin num="41" name="PF0" type="bidirectional"/>
+        <pin num="42" name="AREF" type="input"/>
+        <pin num="43" name="GND" type="power_in"/>
+        <pin num="44" name="AVCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="CONN_3X2">
+      <description>Symbole general de connecteur</description>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_3X2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="KEYSW">
+      <fields>
+        <field name="Reference">K?</field>
+        <field name="Value">KEYSW</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="SW_PUSH">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="FA-238_16.0000MB-C3">
+      <uri>C:/Users/spide/Downloads/LIB_FA-238_16.0000MB-C3/FA-238_16.0000MB-C3/KiCad/FA-238_16.0000MB-C3.lib</uri>
+    </library>
+    <library logical="SK6812MINI-E">
+      <uri>C:/Users/spide/Downloads/LIB_SK6812MINI-E/SK6812MINI-E/KiCad/SK6812MINI-E.lib</uri>
+    </library>
+    <library logical="keyboard_parts">
+      <uri>C:/Users/spide/Documents/GitHub/kicad_lib_tmk/keyboard_parts.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="2" name="/DIn1">
+      <node ref="LED1" pin="4" pinfunction="DIN" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="/DOut12">
+      <node ref="LED12" pin="2" pinfunction="DOUT" pintype="passive"/>
+      <node ref="LED4" pin="4" pinfunction="DIN" pintype="passive"/>
+    </net>
+    <net code="4" name="/DOut15">
+      <node ref="LED15" pin="2" pinfunction="DOUT" pintype="passive"/>
+      <node ref="LED2" pin="4" pinfunction="DIN" pintype="passive"/>
+    </net>
+    <net code="5" name="/DOut16">
+      <node ref="LED16" pin="2" pinfunction="DOUT" pintype="passive"/>
+      <node ref="LED3" pin="4" pinfunction="DIN" pintype="passive"/>
+    </net>
+    <net code="6" name="/DOut17">
+      <node ref="LED17" pin="2" pinfunction="DOUT" pintype="passive"/>
+      <node ref="LED5" pin="4" pinfunction="DIN" pintype="passive"/>
+    </net>
+    <net code="7" name="/MISO">
+      <node ref="P1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="PB3/MISO" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/MOSI">
+      <node ref="P1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="PB2/MOSI" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/RST">
+      <node ref="P1" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="10" name="/SCK">
+      <node ref="P1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="PB1/SCK" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/col0">
+      <node ref="K1" pin="1" pintype="passive"/>
+      <node ref="K2" pin="1" pintype="passive"/>
+      <node ref="K3" pin="1" pintype="passive"/>
+      <node ref="K4" pin="1" pintype="passive"/>
+      <node ref="K5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="40" pinfunction="PF1" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/col1">
+      <node ref="K6" pin="1" pintype="passive"/>
+      <node ref="K7" pin="1" pintype="passive"/>
+      <node ref="K8" pin="1" pintype="passive"/>
+      <node ref="K9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="38" pinfunction="PF5" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/col2">
+      <node ref="K10" pin="1" pintype="passive"/>
+      <node ref="K11" pin="1" pintype="passive"/>
+      <node ref="K12" pin="1" pintype="passive"/>
+      <node ref="K13" pin="1" pintype="passive"/>
+      <node ref="K14" pin="1" pintype="passive"/>
+      <node ref="U1" pin="36" pinfunction="PF7" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/col3">
+      <node ref="K15" pin="1" pintype="passive"/>
+      <node ref="K16" pin="1" pintype="passive"/>
+      <node ref="K17" pin="1" pintype="passive"/>
+      <node ref="U1" pin="31" pinfunction="PC6" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/row0">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="41" pinfunction="PF0" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/row1">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="39" pinfunction="PF4" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/row2">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="37" pinfunction="PF6" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/row3">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="32" pinfunction="PC7" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/row4">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J1" pin="A1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="A12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B1" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="B12" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="LED1" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="LED10" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="LED11" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="LED12" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="LED13" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="LED14" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="LED15" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="LED16" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="LED17" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="LED2" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="LED3" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="LED4" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="LED5" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="LED6" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="LED7" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="LED8" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="LED9" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="P1" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="23" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="35" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="43" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="5" pinfunction="UGnd" pintype="power_in"/>
+      <node ref="Y1" pin="2" pinfunction="GND_1" pintype="passive"/>
+      <node ref="Y1" pin="4" pinfunction="GND_2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="XTAL1" pintype="input"/>
+      <node ref="Y1" pin="1" pinfunction="CRYSTAL_1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="XTAL2" pintype="output"/>
+      <node ref="Y1" pin="3" pinfunction="CRYSTAL_2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(C8-Pad2)">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="UCap" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K1" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K2" pin="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K3" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K4" pin="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K5" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K6" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K7" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K8" pin="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K9" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K10" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K11" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K12" pin="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K13" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K14" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K15" pin="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K16" pin="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K17" pin="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(J1-PadA5)">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(J1-PadA6)">
+      <node ref="J1" pin="A6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="J1" pin="B6" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(J1-PadA7)">
+      <node ref="J1" pin="A7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="J1" pin="B7" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(J1-PadB5)">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(LED1-Pad2)">
+      <node ref="LED1" pin="2" pinfunction="DOUT" pintype="passive"/>
+      <node ref="LED6" pin="4" pinfunction="DIN" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(LED2-Pad2)">
+      <node ref="LED2" pin="2" pinfunction="DOUT" pintype="passive"/>
+      <node ref="LED7" pin="4" pinfunction="DIN" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(LED3-Pad2)">
+      <node ref="LED3" pin="2" pinfunction="DOUT" pintype="passive"/>
+      <node ref="LED8" pin="4" pinfunction="DIN" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(LED4-Pad2)">
+      <node ref="LED4" pin="2" pinfunction="DOUT" pintype="passive"/>
+      <node ref="LED9" pin="4" pinfunction="DIN" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(LED10-Pad2)">
+      <node ref="LED10" pin="2" pinfunction="DOUT" pintype="passive"/>
+      <node ref="LED15" pin="4" pinfunction="DIN" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(LED10-Pad4)">
+      <node ref="LED10" pin="4" pinfunction="DIN" pintype="passive"/>
+      <node ref="LED6" pin="2" pinfunction="DOUT" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(LED11-Pad2)">
+      <node ref="LED11" pin="2" pinfunction="DOUT" pintype="passive"/>
+      <node ref="LED16" pin="4" pinfunction="DIN" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(LED11-Pad4)">
+      <node ref="LED11" pin="4" pinfunction="DIN" pintype="passive"/>
+      <node ref="LED7" pin="2" pinfunction="DOUT" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(LED12-Pad4)">
+      <node ref="LED12" pin="4" pinfunction="DIN" pintype="passive"/>
+      <node ref="LED8" pin="2" pinfunction="DOUT" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(LED13-Pad2)">
+      <node ref="LED13" pin="2" pinfunction="DOUT" pintype="passive"/>
+      <node ref="LED17" pin="4" pinfunction="DIN" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(LED13-Pad4)">
+      <node ref="LED13" pin="4" pinfunction="DIN" pintype="passive"/>
+      <node ref="LED9" pin="2" pinfunction="DOUT" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(LED14-Pad4)">
+      <node ref="LED14" pin="4" pinfunction="DIN" pintype="passive"/>
+      <node ref="LED5" pin="2" pinfunction="DOUT" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="33" pinfunction="~{HWB/PE2}" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="D-" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="D+" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="61" name="VCC">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J1" pin="A4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="A9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B4" pinfunction="VBUS" pintype="passive"/>
+      <node ref="J1" pin="B9" pinfunction="VBUS" pintype="passive"/>
+      <node ref="LED1" pin="1" pinfunction="VDD" pintype="passive"/>
+      <node ref="LED10" pin="1" pinfunction="VDD" pintype="passive"/>
+      <node ref="LED11" pin="1" pinfunction="VDD" pintype="passive"/>
+      <node ref="LED12" pin="1" pinfunction="VDD" pintype="passive"/>
+      <node ref="LED13" pin="1" pinfunction="VDD" pintype="passive"/>
+      <node ref="LED14" pin="1" pinfunction="VDD" pintype="passive"/>
+      <node ref="LED15" pin="1" pinfunction="VDD" pintype="passive"/>
+      <node ref="LED16" pin="1" pinfunction="VDD" pintype="passive"/>
+      <node ref="LED17" pin="1" pinfunction="VDD" pintype="passive"/>
+      <node ref="LED2" pin="1" pinfunction="VDD" pintype="passive"/>
+      <node ref="LED3" pin="1" pinfunction="VDD" pintype="passive"/>
+      <node ref="LED4" pin="1" pinfunction="VDD" pintype="passive"/>
+      <node ref="LED5" pin="1" pinfunction="VDD" pintype="passive"/>
+      <node ref="LED6" pin="1" pinfunction="VDD" pintype="passive"/>
+      <node ref="LED7" pin="1" pinfunction="VDD" pintype="passive"/>
+      <node ref="LED8" pin="1" pinfunction="VDD" pintype="passive"/>
+      <node ref="LED9" pin="1" pinfunction="VDD" pintype="passive"/>
+      <node ref="P1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U1" pin="2" pinfunction="UVcc" pintype="power_in"/>
+      <node ref="U1" pin="24" pinfunction="AVCC" pintype="power_in"/>
+      <node ref="U1" pin="34" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U1" pin="44" pinfunction="AVCC" pintype="power_in"/>
+      <node ref="U1" pin="7" pinfunction="VBus" pintype="input"/>
+    </net>
+    <net code="62" name="unconnected-(J1-PadA8)">
+      <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(J1-PadB8)">
+      <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(LED14-Pad2)">
+      <node ref="LED14" pin="2" pinfunction="DOUT" pintype="passive+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(U1-Pad1)">
+      <node ref="U1" pin="1" pinfunction="PE6/AIN0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(U1-Pad8)">
+      <node ref="U1" pin="8" pinfunction="PB0/SS" pintype="bidirectional"/>
+    </net>
+    <net code="67" name="unconnected-(U1-Pad12)">
+      <node ref="U1" pin="12" pinfunction="PB7/~{RTS}" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(U1-Pad18)">
+      <node ref="U1" pin="18" pinfunction="PD0/INT0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(U1-Pad19)">
+      <node ref="U1" pin="19" pinfunction="PD1/INT1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(U1-Pad20)">
+      <node ref="U1" pin="20" pinfunction="PD2/RXD1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(U1-Pad21)">
+      <node ref="U1" pin="21" pinfunction="PD3/TXD1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(U1-Pad22)">
+      <node ref="U1" pin="22" pinfunction="PD5/XCK1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(U1-Pad25)">
+      <node ref="U1" pin="25" pinfunction="ICP1/PD4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(U1-Pad26)">
+      <node ref="U1" pin="26" pinfunction="T1/PD6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(U1-Pad27)">
+      <node ref="U1" pin="27" pinfunction="T0/PD7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(U1-Pad28)">
+      <node ref="U1" pin="28" pinfunction="PB4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(U1-Pad42)">
+      <node ref="U1" pin="42" pinfunction="AREF" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>

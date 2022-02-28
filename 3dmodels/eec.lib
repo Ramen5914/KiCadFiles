@@ -1,0 +1,45 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Micro Commercial Components 1N4448W-TP
+#
+DEF 1N4448W-TP D 0 40 Y Y 1 L N
+F0 "D" 0 200 50 H V L CNN 
+F1 "1N4448W-TP" 0 300 50 H V L CNN 
+F2 "Micro_Commercial_Components-1N4448W-TP-*" 0 400 50 H I L CNN 
+F3 "http://www.mccsemi.com/up_pdf/1N4448W(SOD-123).pdf" 0 500 50 H I L CNN 
+F4 "Manufacturer URL" 0 600 50 H I L CNN "Component Link 1 Description"
+F5 "http://www.mccsemi.com/" 0 700 50 H I L CNN "Component Link 1 URL"
+F6 "Package Specification" 0 800 50 H I L CNN "Component Link 3 Description"
+F7 "http://www.mccsemi.com/up_pdf/1N4448W(SOD-123).pdf" 0 900 50 H I L CNN "Component Link 3 URL"
+F8 "Rev. C" 0 1000 50 H I L CNN "Datasheet Version"
+F9 "1 V Max." 0 1100 50 H I L CNN "FV"
+F10 "250 mA" 0 1200 50 H I L CNN "IF AV"
+F11 "25 nA" 0 1300 50 H I L CNN "IR"
+F12 "Surface Mount" 0 1400 50 H I L CNN "Mounting Technology"
+F13 "-55 to 150 degC" 0 1500 50 H I L CNN "Operating Temperature Range"
+F14 "500 mW" 0 1600 50 H I L CNN "PD"
+F15 "2-Pin SOD123, Body 2.7 x 1.6 mm, Height 1.35 mm" 0 1700 50 H I L CNN "Package Description"
+F16 "Rev. C" 0 1800 50 H I L CNN "Package Version"
+F17 "Tape and Reel" 0 1900 50 H I L CNN "Packing"
+F18 "4 nS" 0 2000 50 H I L CNN "Trr"
+F19 "4 pF" 0 2100 50 H I L CNN "Typical Junction Capacitance"
+F20 "100 V" 0 2200 50 H I L CNN "VRM PRV"
+F21 "Diode" 0 2300 50 H I L CNN "category"
+F22 "817199" 0 2400 50 H I L CNN "ciiva ids"
+F23 "57492141838f45d8" 0 2500 50 H I L CNN "library id"
+F24 "Micro Commercial Components" 0 2600 50 H I L CNN "manufacturer"
+F25 "SOD123" 0 2700 50 H I L CNN "package"
+F26 "1394182271" 0 2800 50 H I L CNN "release date"
+F27 "Yes" 0 2900 50 H I L CNN "rohs"
+F28 "3C39E1AB-5A42-4250-ABA7-A90D11DCECB5" 0 3000 50 H I L CNN "vault revision"
+F29 "yes" 0 3100 50 H I L CNN "imported"
+DRAW
+X A 1 0 0 100 R 40 0 1 1 P 
+X K 2 300 0 100 L 40 0 1 1 P 
+P 4 1 1 0 100 -100 200 0 100 100 100 -100 N
+P 2 1 1 0 200 100 200 -100 N
+ENDDRAW
+ENDDEF
+#
+# End Library

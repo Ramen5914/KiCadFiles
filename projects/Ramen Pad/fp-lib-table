@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name "keyboard_parts")(type "KiCad")(uri "C:/Users/spide/Documents/GitHub/keyboard_parts.pretty")(options "")(descr ""))
+  (lib (name "keebs")(type "KiCad")(uri "C:/Users/spide/Documents/GitHub/keebs.pretty")(options "")(descr ""))
+  (lib (name "Crystals")(type "KiCad")(uri "C:/Users/spide/Documents/GitHub/Crystals.pretty")(options "")(descr ""))
+  (lib (name "keyswitches")(type "KiCad")(uri "C:/Users/spide/Documents/GitHub/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "C:/Users/spide/Documents/GitHub/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "SK6812MINI-E")(type "KiCad")(uri "C:/Users/spide/Downloads/LIB_SK6812MINI-E/SK6812MINI-E/KiCad")(options "")(descr ""))
+  (lib (name "FA_238")(type "KiCad")(uri "C:/Users/spide/Downloads/LIB_FA-238_16.0000MB-C3/FA-238_16.0000MB-C3/KiCad")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "C:/Users/spide/Downloads/LIB_217175-0001/217175-0001/KiCad")(options "")(descr ""))
+  (lib (name "RamenLogo")(type "KiCad")(uri "${KIPRJMOD}/RamenLogo.pretty")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "C:/Users/spide/Downloads/USB4105-GF-A")(options "")(descr ""))
+)

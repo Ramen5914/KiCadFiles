@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "keyboard_parts")(type "Legacy")(uri "C:/Users/spide/Documents/GitHub/kicad_lib_tmk/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name "SK6812MINI-E")(type "Legacy")(uri "C:/Users/spide/Downloads/LIB_SK6812MINI-E/SK6812MINI-E/KiCad/SK6812MINI-E.lib")(options "")(descr ""))
+  (lib (name "FA-238_16.0000MB-C3")(type "Legacy")(uri "C:/Users/spide/Downloads/LIB_FA-238_16.0000MB-C3/FA-238_16.0000MB-C3/KiCad/FA-238_16.0000MB-C3.lib")(options "")(descr ""))
+  (lib (name "217175-0001")(type "Legacy")(uri "C:/Users/spide/Downloads/LIB_217175-0001/217175-0001/KiCad/217175-0001.lib")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "Legacy")(uri "C:/Users/spide/Downloads/USB4105-GF-A/USB4105-GF-A.lib")(options "")(descr ""))
+)
