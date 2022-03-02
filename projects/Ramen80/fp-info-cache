@@ -1,8 +1,57 @@
-1645914213526
-RamenKeebs
-QBLP677R-RGB
+13168161502551
+SamacSys_Parts
+CAPC2012X90N
+C0805 (thickness 0.9mm)
+Capacitor
+0
+2
+2
+SamacSys_Parts
+FA238160000MBC3
+FA-238 16.0000MB-C3-2
+Crystal or Oscillator
+0
+4
+4
+SamacSys_Parts
+GCT_USB4105-GF-A
 
 
+0
+16
+16
+SamacSys_Parts
+NE555DR
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
+QFP80P1200X1200X120-44N
+44ML*-*-
+Integrated Circuit
+0
+44
+44
+SamacSys_Parts
+RESC2012X65N
+KTR10
+Resistor
+0
+2
+2
+SamacSys_Parts
+RHDR6W30P0X100_1X6_650X150X210P
+BC065-06-A-L-D
+Connector
+0
+6
+6
+SamacSys_Parts
+TL3342F160QG
+TL3342F160QG-1
+Switch
 0
 4
 4
