@@ -11146,28 +11146,28 @@
         LED73-3 LED83-3 LED75-3 U3-10)
     )
     (net "/LED Matrix/CS1"
-      (pins LED41-4 LED71-4 LED8-4 U2-16)
+      (pins LED64-4 LED34-4 LED1-4 U2-16)
     )
     (net "/LED Matrix/CS2"
-      (pins LED7-4 LED70-4 LED40-4 U2-17)
+      (pins LED35-4 LED2-4 LED65-4 U2-17)
     )
     (net "/LED Matrix/CS3"
-      (pins LED69-4 LED39-4 LED6-4 U2-18)
+      (pins LED66-4 LED3-4 LED36-4 U2-18)
     )
     (net "/LED Matrix/CS4"
-      (pins LED68-4 LED5-4 LED38-4 U2-19)
+      (pins LED37-4 LED67-4 LED4-4 U2-19)
     )
     (net "/LED Matrix/CS5"
-      (pins LED37-4 LED67-4 LED4-4 U2-21)
+      (pins LED68-4 LED5-4 LED38-4 U2-21)
     )
     (net "/LED Matrix/CS6"
-      (pins LED66-4 LED3-4 LED36-4 U2-22)
+      (pins LED69-4 LED39-4 LED6-4 U2-22)
     )
     (net "/LED Matrix/CS7"
-      (pins LED35-4 LED2-4 LED65-4 U2-23)
+      (pins LED7-4 LED70-4 LED40-4 U2-23)
     )
     (net "/LED Matrix/CS8"
-      (pins LED64-4 LED34-4 LED1-4 U2-24)
+      (pins LED41-4 LED71-4 LED8-4 U2-24)
     )
     (net "/LED Matrix/CS9 "
       (pins LED77-4 LED17-4 LED51-4 U2-25)
@@ -11215,49 +11215,49 @@
       (pins U3-15)
     )
     (net "/LED Matrix/2CS1"
-      (pins LED49-4 LED16-4 U3-16)
+      (pins LED72-4 LED9-4 LED42-4 U3-16)
     )
     (net "/LED Matrix/2CS2"
-      (pins LED11-4 LED74-4 LED44-4 U3-17)
+      (pins LED10-4 LED43-4 LED73-4 U3-17)
     )
     (net "/LED Matrix/2CS3"
-      (pins LED48-4 LED76-4 LED15-4 U3-18)
+      (pins LED11-4 LED74-4 LED44-4 U3-18)
     )
     (net "/LED Matrix/2CS4"
-      (pins LED47-4 LED14-4 U3-19)
+      (pins LED45-4 LED12-4 LED75-4 U3-19)
     )
     (net "/LED Matrix/2CS5"
-      (pins LED10-4 LED43-4 LED73-4 U3-21)
+      (pins LED46-4 LED13-4 U3-21)
     )
     (net "/LED Matrix/2CS6"
-      (pins LED46-4 LED13-4 U3-22)
+      (pins LED47-4 LED14-4 U3-22)
     )
     (net "/LED Matrix/2CS7"
-      (pins LED45-4 LED12-4 LED75-4 U3-23)
+      (pins LED48-4 LED76-4 LED15-4 U3-23)
     )
     (net "/LED Matrix/2CS8"
-      (pins LED72-4 LED9-4 LED42-4 U3-24)
+      (pins LED49-4 LED16-4 U3-24)
     )
     (net "/LED Matrix/2CS9 "
-      (pins LED62-4 LED84-4 LED28-4 U3-25)
+      (pins LED81-4 LED25-4 LED59-4 U3-25)
     )
     (net "/LED Matrix/2CS10"
-      (pins LED50-4 LED30-4 U3-26)
+      (pins LED60-4 LED82-4 LED26-4 U3-26)
     )
     (net "/LED Matrix/2CS11"
       (pins LED27-4 LED61-4 LED83-4 U3-27)
     )
     (net "/LED Matrix/2CS12"
-      (pins LED85-4 LED63-4 LED29-4 U3-28)
+      (pins LED62-4 LED84-4 LED28-4 U3-28)
     )
     (net "/LED Matrix/2CS13"
-      (pins LED60-4 LED82-4 LED26-4 U3-30)
+      (pins LED85-4 LED63-4 LED29-4 U3-30)
     )
     (net "/LED Matrix/2CS14"
-      (pins LED86-4 LED31-4 LED33-4 U3-31)
+      (pins LED50-4 LED30-4 U3-31)
     )
     (net "/LED Matrix/2CS15"
-      (pins LED81-4 LED25-4 LED59-4 U3-32)
+      (pins LED86-4 LED31-4 LED33-4 U3-32)
     )
     (net "/LED Matrix/2CS16"
       (pins LED87-4 LED32-4 U3-33)
