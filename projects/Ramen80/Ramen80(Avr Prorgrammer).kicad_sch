@@ -6,7 +6,7 @@
 
   (title_block
     (title "Ramen80")
-    (date "2022-02-24")
+    (date "2022-03-05")
     (rev "v1.0.0")
     (company "Ramen Keebs")
   )
@@ -237,7 +237,7 @@
     (property "Reference" "J1" (id 0) (at 85.09 38.0999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "USB4105-GF-A" (id 1) (at 85.09 40.6399 0)
+    (property "Value" "6 Pin AVR" (id 1) (at 85.09 40.6399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "SamacSys_Parts:RHDR6W30P0X100_1X6_650X150X210P" (id 2) (at 85.09 30.48 0)

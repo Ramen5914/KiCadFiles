@@ -6,7 +6,7 @@
 
   (title_block
     (title "Ramen80")
-    (date "2022-02-24")
+    (date "2022-03-05")
     (rev "v1.0.0")
     (company "Ramen Keebs")
   )
@@ -257,7 +257,7 @@
     (property "Value" "C" (id 1) (at 119.38 83.82 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 119.0752 85.09 0)
+    (property "Footprint" "RamenKeebs:C_0805" (id 2) (at 119.0752 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 118.11 81.28 0)
@@ -317,7 +317,7 @@
     (property "Value" "C" (id 1) (at 170.18 83.82 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 169.8752 85.09 0)
+    (property "Footprint" "RamenKeebs:C_0805" (id 2) (at 169.8752 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 168.91 81.28 0)

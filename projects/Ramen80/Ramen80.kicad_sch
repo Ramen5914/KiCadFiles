@@ -6,7 +6,7 @@
 
   (title_block
     (title "Ramen80")
-    (date "2022-02-24")
+    (date "2022-03-05")
     (rev "v1.0.0")
     (company "Ramen Keebs")
     (comment 1 "Microcontroller")
@@ -653,7 +653,7 @@
     (property "Value" "ATMEGA32U4" (id 1) (at 102.87 100.33 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "Keebio-Parts:ATMEGA32U4-AU" (id 2) (at 102.87 102.87 0)
+    (property "Footprint" "RamenKeebs:ATMEGA32U4-AUR" (id 2) (at 102.87 102.87 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Datasheet" "" (id 3) (at 102.87 69.85 0)
@@ -1218,18 +1218,6 @@
     (path "/225e1d4f-36a8-4a5a-a0c5-8adb1a0c763a/7b63863a-eb1a-49c9-9309-8e8390d15909"
       (reference "#PWR036") (unit 1) (value "GND") (footprint "")
     )
-    (path "/6995a5a7-467e-4188-add3-77353fedd806/328d00a7-8f71-446f-aa06-5a42b4c1b745"
-      (reference "#PWR037") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/6995a5a7-467e-4188-add3-77353fedd806/cf82319e-b6b6-40c4-a8a1-ae2e1326db66"
-      (reference "#PWR038") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/6995a5a7-467e-4188-add3-77353fedd806/3c10c7cc-ed06-4774-9af5-a86d38a087e6"
-      (reference "#PWR039") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/6995a5a7-467e-4188-add3-77353fedd806/c3919767-e4bc-4aa4-89a3-77d8f27a2291"
-      (reference "#PWR040") (unit 1) (value "GND") (footprint "")
-    )
     (path "/29adcc4a-4df5-4615-b35b-94332e1ee506/b38072e5-c8fa-43e4-a563-2100b77e974d"
       (reference "#PWR041") (unit 1) (value "VCC") (footprint "")
     )
@@ -1251,611 +1239,626 @@
     (path "/f9d38c6b-93c2-4535-9207-8ebdf22381ac/24d129e9-f827-4629-97b8-0b9fd6ce67f3"
       (reference "#PWR047") (unit 1) (value "GND") (footprint "")
     )
+    (path "/6995a5a7-467e-4188-add3-77353fedd806/624af6ed-450c-4ae4-ba83-a18b17b3a6fb"
+      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/6995a5a7-467e-4188-add3-77353fedd806/4c3070dc-7022-4b05-b115-41bbf04682bd"
+      (reference "#PWR0102") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/6995a5a7-467e-4188-add3-77353fedd806/617a6da6-f37c-4c35-9902-5c7f460ffdc2"
+      (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/6995a5a7-467e-4188-add3-77353fedd806/dd7fb592-7229-4942-af35-1743a50075eb"
+      (reference "#PWR0104") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/6995a5a7-467e-4188-add3-77353fedd806/5203c131-f4ac-472c-b33b-bf4a2a9d3c24"
+      (reference "#PWR0105") (unit 1) (value "GND") (footprint "")
+    )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/ea9d2d1f-9790-4a91-83da-12aaf0eecfc8"
-      (reference "C1") (unit 1) (value "0.47f") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C1") (unit 1) (value "0.47f") (footprint "RamenKeebs:C_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/e5050e64-2ba1-49bf-9466-096c09879b4c"
-      (reference "C2") (unit 1) (value "0.1f") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C2") (unit 1) (value "0.1f") (footprint "RamenKeebs:C_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/8bf02984-f1f9-49db-970c-7790a8be82d3"
-      (reference "C3") (unit 1) (value "0.47f") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C3") (unit 1) (value "0.47f") (footprint "RamenKeebs:C_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/c45f96f2-46e7-451c-8111-8a9846a8d034"
-      (reference "C4") (unit 1) (value "4.7u") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C4") (unit 1) (value "4.7u") (footprint "RamenKeebs:C_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/4f5f19f4-ec05-48e9-b113-84d0c6d6f7e4"
-      (reference "C5") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C5") (unit 1) (value "0.1u") (footprint "RamenKeebs:C_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/31b8c87c-eafa-4b36-9b95-edbdc99abda1"
-      (reference "C6") (unit 1) (value "0.1f") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C6") (unit 1) (value "0.1f") (footprint "RamenKeebs:C_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/79f92221-a01b-4ddb-b929-8e9839b7fa91"
-      (reference "C7") (unit 1) (value "0.1f") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C7") (unit 1) (value "0.1f") (footprint "RamenKeebs:C_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/25794d03-a3ad-4276-b8f3-170d7b5fc5c4"
-      (reference "C8") (unit 1) (value "0.47f") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C8") (unit 1) (value "0.47f") (footprint "RamenKeebs:C_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/c5b8157a-1937-44a5-87a5-ae6c051c8a09"
-      (reference "C9") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C9") (unit 1) (value "0.1u") (footprint "RamenKeebs:C_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/e0c7b740-6b86-4e9c-a4f4-32bf82d2f5bf"
-      (reference "C10") (unit 1) (value "0.47f") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C10") (unit 1) (value "0.47f") (footprint "RamenKeebs:C_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/95d63a5e-881c-48b1-82f5-6406cac086ce"
-      (reference "C11") (unit 1) (value "0.47f") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C11") (unit 1) (value "0.47f") (footprint "RamenKeebs:C_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/42d4f87a-d0f2-4be6-b5fb-ebd036fcfb61"
-      (reference "C12") (unit 1) (value "0.1f") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C12") (unit 1) (value "0.1f") (footprint "RamenKeebs:C_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/d4a6b8ab-3750-4c71-965b-342a082719cb"
-      (reference "C13") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C13") (unit 1) (value "0.1u") (footprint "RamenKeebs:C_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/23edbcff-a584-44e6-851c-329f4c4fcf47"
-      (reference "C14") (unit 1) (value "0.47f") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C14") (unit 1) (value "0.47f") (footprint "RamenKeebs:C_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/2786ef86-11dc-4595-bc41-46fdeeee5fba"
-      (reference "C15") (unit 1) (value "0.1f") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C15") (unit 1) (value "0.1f") (footprint "RamenKeebs:C_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/c1861855-9298-41fc-90d9-a513662e55ae"
-      (reference "C16") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C16") (unit 1) (value "1u") (footprint "RamenKeebs:C_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/75d99fbe-8d74-4f1b-b5ab-aa663c07282f"
-      (reference "C17") (unit 1) (value "0.47f") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C17") (unit 1) (value "0.47f") (footprint "RamenKeebs:C_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/03bf1c71-caad-4d8c-a7f0-c437d5ed9d39"
-      (reference "C18") (unit 1) (value "0.1f") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C18") (unit 1) (value "0.1f") (footprint "RamenKeebs:C_0805")
     )
     (path "/29adcc4a-4df5-4615-b35b-94332e1ee506/21df0cae-1f66-48b5-b6cc-64a3c7628216"
-      (reference "C19") (unit 1) (value "0.47f") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C19") (unit 1) (value "0.47f") (footprint "RamenKeebs:C_0805")
     )
     (path "/29adcc4a-4df5-4615-b35b-94332e1ee506/2e01f3cb-a1e1-4005-aad8-8e94556eb8b2"
-      (reference "C20") (unit 1) (value "0.1f") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C20") (unit 1) (value "0.1f") (footprint "RamenKeebs:C_0805")
     )
     (path "/29adcc4a-4df5-4615-b35b-94332e1ee506/97bbd4db-8366-412e-9edb-139dce80d058"
-      (reference "C21") (unit 1) (value "0.47f") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C21") (unit 1) (value "0.47f") (footprint "RamenKeebs:C_0805")
     )
     (path "/29adcc4a-4df5-4615-b35b-94332e1ee506/07eed083-8783-4b30-982b-8b3ef9458827"
-      (reference "C22") (unit 1) (value "0.1u") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C22") (unit 1) (value "0.1u") (footprint "RamenKeebs:C_0805")
     )
     (path "/29adcc4a-4df5-4615-b35b-94332e1ee506/9db8f04f-6124-458c-b5ef-36b82a59feef"
-      (reference "C23") (unit 1) (value "0.47f") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C23") (unit 1) (value "0.47f") (footprint "RamenKeebs:C_0805")
     )
     (path "/29adcc4a-4df5-4615-b35b-94332e1ee506/bfbc9c27-61ef-4e73-9f35-595496b8ab20"
-      (reference "C24") (unit 1) (value "0.1f") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C24") (unit 1) (value "0.1f") (footprint "RamenKeebs:C_0805")
     )
     (path "/4fb6bd25-f513-4701-871c-ec25ca26bc19/4c351242-78c4-4b9e-86c9-3d1322704d3a"
-      (reference "C25") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C25") (unit 1) (value "C") (footprint "RamenKeebs:C_0805")
     )
     (path "/4fb6bd25-f513-4701-871c-ec25ca26bc19/9c5b4917-44e1-4c33-b541-c1c6dbc8b9d0"
-      (reference "C26") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C26") (unit 1) (value "C") (footprint "RamenKeebs:C_0805")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/6f40ead7-78b6-44f8-8458-e5149a87872b"
-      (reference "D1") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D1") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/9dfcf9b4-f6ab-4a93-bf22-88affe824913"
-      (reference "D2") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D2") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/4ac819f0-1aa8-446b-a96b-c8e1c98efe8e"
-      (reference "D3") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D3") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/62d1737b-3664-4dc7-9512-40033d30ff2d"
-      (reference "D4") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D4") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/911955ae-7781-4c1f-a980-1692c4ddb1cc"
-      (reference "D5") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D5") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/48767356-1631-4cde-a5d5-c8e9acf515b6"
-      (reference "D6") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D6") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/7a2d4031-7a25-4957-b417-d3ca6e4ed4af"
-      (reference "D7") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D7") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/8899df60-2d46-421e-b29f-8a8c3e786c5c"
-      (reference "D8") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D8") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/ed651ed1-3e91-4a8e-8dda-71b3539510f7"
-      (reference "D9") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D9") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/3a2520ed-0c60-4f0d-bdc8-9bdb081d1369"
-      (reference "D10") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D10") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/afcd7352-589d-4414-8a5e-d1a54f597af4"
-      (reference "D11") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D11") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/9ce2a883-f099-4821-a27f-baed61d95049"
-      (reference "D12") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D12") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/52e40227-c7f6-46cb-81be-ba447a5c4671"
-      (reference "D13") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D13") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/0be487d5-3ca3-4be2-9c38-cf6d782c02b2"
-      (reference "D14") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D14") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/6f63d258-3146-4b1d-ad79-808660c83ceb"
-      (reference "D15") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D15") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/5134aa76-b75b-4b06-adaa-d6f431246788"
-      (reference "D16") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D16") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/6335067a-a4d1-4f56-b884-e3b22e074857"
-      (reference "D17") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D17") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/3056e550-1ff4-4c6d-84c2-55f9b2408759"
-      (reference "D18") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D18") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/3dadabd6-0e19-4ef6-8704-035f7ef19676"
-      (reference "D19") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D19") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/0730025d-f2ff-42f5-a384-0f57bf626a75"
-      (reference "D20") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D20") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/b34cca39-e80a-4cdb-820e-52ab56ae285c"
-      (reference "D21") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D21") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/0f45dae6-8f3f-4177-a3c0-cad9f4578079"
-      (reference "D22") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D22") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/ee4d8add-0c40-4227-80d6-27a5168ef173"
-      (reference "D23") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D23") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/540b9573-51cd-4da7-bba7-bf2a4c0c26d7"
-      (reference "D24") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D24") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/e471da93-7dab-44eb-8384-31617ba8db06"
-      (reference "D25") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D25") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/31e78dbb-701b-4297-842d-33d535036e15"
-      (reference "D26") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D26") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/c51bdf53-5f33-44e6-afdc-638ff4812b57"
-      (reference "D27") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D27") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/784ea4d3-f101-4891-b0d8-39e16cd1bafd"
-      (reference "D28") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D28") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/d7ba93f2-9753-4351-af2b-575e1c7b3eb8"
-      (reference "D29") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D29") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/d46ee3f2-c7a8-4242-9c3a-33878966c247"
-      (reference "D30") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D30") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/6905beb7-e633-4d00-9a35-6380bb93a677"
-      (reference "D31") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D31") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/b96ba323-5e44-42b4-9508-926f21632311"
-      (reference "D32") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D32") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/74212b0d-77e8-4b7c-a56c-9fdf6e66b813"
-      (reference "D33") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D33") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/32a0cb0e-46b0-43de-88a4-89fe3b5e301f"
-      (reference "D34") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D34") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/0be679f3-b3e4-473e-802a-bbf022ac6362"
-      (reference "D35") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D35") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/fd8157fd-f2a6-478d-9fbc-3b876d71d1fc"
-      (reference "D36") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D36") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/8f8c01ba-6be3-448e-8049-ae447d35bbc2"
-      (reference "D37") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D37") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/9422a7ec-73f8-41b0-a061-a5bf9d209a80"
-      (reference "D38") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D38") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/63ada331-59a3-41f9-bc51-4659f95d362c"
-      (reference "D39") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D39") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/6eba4b4a-7f11-4acd-9f2c-ea1fc6972d59"
-      (reference "D40") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D40") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/fc12686f-4224-46f1-bebc-402fdc656a04"
-      (reference "D41") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D41") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/19b967da-7fc1-401d-a07f-55cc78803caa"
-      (reference "D42") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D42") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/eaa6b8b6-eb53-4e73-aeca-46e4aae2c240"
-      (reference "D43") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D43") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/65575c9b-6ada-4998-be15-25ab59c432ea"
-      (reference "D44") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D44") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/0b9e3a9b-83cf-4a88-9a2d-822293a60972"
-      (reference "D45") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D45") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/fa925899-3e85-4b78-bedb-6bb43001d642"
-      (reference "D46") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D46") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/c64a41be-e3bd-45a1-b539-72e20ef68585"
-      (reference "D47") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D47") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/4923b748-a4a1-40a8-acf6-89413ffed93c"
-      (reference "D48") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D48") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/6322fe74-69c8-4e31-ab8a-d03a940a29a7"
-      (reference "D49") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D49") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/806d2f3e-b9cc-4a3c-925b-2405b560655a"
-      (reference "D50") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D50") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/ab142baa-95d5-46a2-842f-594078b2e43e"
-      (reference "D51") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D51") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/02a23a26-6008-46a9-ba0d-8982f880db14"
-      (reference "D52") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D52") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/14ae7e8b-d762-40a5-bcc8-7ec67c8289e6"
-      (reference "D53") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D53") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/2b94aef6-3ebb-4a3f-b1d5-41f91418b181"
-      (reference "D54") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D54") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/8eba79b2-9b09-46ce-9dc1-d7a2f2285106"
-      (reference "D55") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D55") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/3287e569-a953-48e1-8ad4-4c3eb24f3ad7"
-      (reference "D56") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D56") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/be8c2ad8-9533-460e-927c-3467c58f680b"
-      (reference "D57") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D57") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/b34d71d8-4aea-4a52-89b5-ab4605f3e29e"
-      (reference "D58") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D58") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/ec2a68cd-d1d5-4d48-b532-a49285d3c92e"
-      (reference "D59") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D59") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/4d540dac-fdc9-46f2-a946-7d97457ce3eb"
-      (reference "D60") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D60") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/233437cf-cbc2-409e-9e3e-1d73f91f67a1"
-      (reference "D61") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D61") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/0487b639-c3da-4cfe-be0e-1252e47087a5"
-      (reference "D62") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D62") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/c1792a74-4e07-45c5-b780-d5ffc33befaf"
-      (reference "D63") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D63") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/0d8d6f0e-a330-477a-b80b-ba65de5b9571"
-      (reference "D64") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D64") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/62c5c792-6707-49d7-b644-024863a30737"
-      (reference "D65") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D65") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/56d8e550-2b6f-425f-b2d4-8b598215a589"
-      (reference "D66") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D66") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/0bfa06ef-5230-4cd7-936a-5cb4c3f390cc"
-      (reference "D67") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D67") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/099ca774-8479-40be-8ff5-cac3a64646ca"
-      (reference "D68") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D68") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/2488b185-f7f2-4de5-b991-da3c56925c87"
-      (reference "D69") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D69") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/8aeb7e72-8fa4-4745-aa77-f0cb4e62108c"
-      (reference "D70") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D70") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/56b2a2bf-b0c8-41fa-b9bd-27ce1aa5e7f0"
-      (reference "D71") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D71") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/4fc55212-7611-4c9b-88ca-52beffe80bec"
-      (reference "D72") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D72") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/f1acbbc1-63a2-438b-aa5e-f092c0c4e835"
-      (reference "D73") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D73") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/5e1d452c-77d3-4efe-aaf8-1dca0f1ff3cf"
-      (reference "D74") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D74") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/30d11c17-69b4-4219-ad09-06a85a64bee8"
-      (reference "D75") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D75") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/b0b9c9e1-a050-406a-af6f-bc868057a7cc"
-      (reference "D76") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D76") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/4fe1d604-aba1-4e88-8071-5cb066736a47"
-      (reference "D77") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D77") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/a25bd01d-1e2d-4ad8-946c-722dee62ed80"
-      (reference "D78") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D78") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/96614564-faae-49a8-b756-d9171a350c81"
-      (reference "D79") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D79") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/b88c4ee9-97a2-4166-9dd0-716de1b31b21"
-      (reference "D80") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D80") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/b92cfcd0-d7cd-48c3-b954-4e094a97b0be"
-      (reference "D81") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D81") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/2188ba18-9a32-40b4-b5d6-9ad41623d14b"
-      (reference "D82") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D82") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/18395e07-0785-4810-84ae-ee44026c8808"
-      (reference "D83") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D83") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/582b9d2d-121d-4f7d-a511-ccefc0d30add"
-      (reference "D84") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D84") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/915ab01b-7ab9-42f8-a004-69c4c80b39c2"
-      (reference "D85") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D85") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/e6e58b84-2064-44aa-9499-181fc087ba94"
-      (reference "D86") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D86") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/c6e9524f-8f47-4b33-9d7f-a98860c4ca75"
-      (reference "D87") (unit 1) (value "D") (footprint "keyboard_parts:D_SOD123_axial")
+      (reference "D87") (unit 1) (value "D") (footprint "RamenKeebs:D_AXIAL")
     )
     (path "/225e1d4f-36a8-4a5a-a0c5-8adb1a0c763a/f0ec1c25-0eeb-4860-8f64-7d181cd7beb4"
-      (reference "J1") (unit 1) (value "USB4105-GF-A") (footprint "SamacSys_Parts:RHDR6W30P0X100_1X6_650X150X210P")
+      (reference "J1") (unit 1) (value "6 Pin AVR") (footprint "SamacSys_Parts:RHDR6W30P0X100_1X6_650X150X210P")
     )
-    (path "/6995a5a7-467e-4188-add3-77353fedd806/95589da1-41ce-4ceb-8fc8-bfd893562be9"
-      (reference "J2") (unit 1) (value "USB_C_RECEPTACLE") (footprint "SamacSys_Parts:GCT_USB4105-GF-A")
+    (path "/6995a5a7-467e-4188-add3-77353fedd806/06f06004-ce29-4044-b89f-83429caa2d6c"
+      (reference "J2") (unit 1) (value "USB4505-03-0-A") (footprint "RamenKeebs:USB4505-03-0-A")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/a6feb1de-76ac-4e52-92dd-f2ac23707977"
-      (reference "K1") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K1") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/7d84bac5-b79e-4458-8aa3-287ac6731272"
-      (reference "K2") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K2") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/c08753af-58eb-4290-8a92-eb8109584f7e"
-      (reference "K3") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K3") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/771caab7-90f8-45da-972e-ecde3d900fdf"
-      (reference "K4") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K4") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/985b96b4-e548-493e-bb45-132e0fe0a4b9"
-      (reference "K5") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K5") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/9e14ed6d-2b9c-4167-a34a-092b559b6c3a"
-      (reference "K6") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K6") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/b11a053a-f603-4082-be32-caa948783632"
-      (reference "K7") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K7") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/97f47fbe-f9e4-45e4-9264-f2b933aed1c5"
-      (reference "K8") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K8") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/97f8b98b-dfdb-46d5-bcdb-d4a4cc16c4da"
-      (reference "K9") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K9") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/4a226aa1-e664-4a5a-8611-9d9a5c34c634"
-      (reference "K10") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K10") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/e286f9d6-0382-4fce-9e1e-8bd125826b50"
-      (reference "K11") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K11") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/277b1251-e6a6-4fc1-9212-1baa7e50d422"
-      (reference "K12") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K12") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/b601485a-9d99-420d-ac36-d7a75490df76"
-      (reference "K13") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K13") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/4bb6511c-579c-4064-9c7a-d30e52b9a0c8"
-      (reference "K14") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K14") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/2a04428c-e03a-488d-9b24-046d88719d21"
-      (reference "K15") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K15") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/c70f5ec3-f806-46ff-802c-1a9244558ca3"
-      (reference "K16") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K16") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/b2cbd7f5-3ccf-452b-9580-6a022a8e450a"
-      (reference "K17") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K17") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/df81db06-5110-45f1-90f0-53baf104a754"
-      (reference "K18") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K18") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/aa2c1656-6b1c-45d6-93b9-c22bf9497cdf"
-      (reference "K19") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K19") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/0de0395f-9e05-40f5-972b-898d35bd4f73"
-      (reference "K20") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K20") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/0fbd34a4-523e-47e7-981c-6470c5027c0c"
-      (reference "K21") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K21") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/f8cb1554-fabf-4937-8c86-1a259416af0b"
-      (reference "K22") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K22") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/ba582230-f542-4499-9252-2d06c44d2633"
-      (reference "K23") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K23") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/4c0cac78-5a14-46df-a2e9-6eed2a2059ff"
-      (reference "K24") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K24") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/0a3461ea-882f-4373-bde2-bf8aabcf7c47"
-      (reference "K25") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K25") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/eaedc6ba-aee1-4210-8295-51fb5f631beb"
-      (reference "K26") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K26") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/30db85c1-82e8-4b57-afa4-7d518ae2c258"
-      (reference "K27") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K27") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/cdbbddea-080c-43aa-9aac-11ff8877808a"
-      (reference "K28") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K28") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/06e88013-7461-4581-989d-dbe63ec8938e"
-      (reference "K29") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K29") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/c745d303-81ef-4960-a41c-e849fa4de149"
-      (reference "K30") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K30") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/c0b408e2-35fb-4a42-b292-69d496a943b4"
-      (reference "K31") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K31") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/af6dd2e8-60a4-4fcf-95a2-eba7835963ce"
-      (reference "K32") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K32") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/5f70f558-9042-4ef6-825b-06703c70c177"
-      (reference "K33") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K33") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/3f46751b-bbcc-498a-a58b-97ea4123f092"
-      (reference "K34") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K34") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/5480e596-eec1-469d-b1f3-4f0b6a62df0c"
-      (reference "K35") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K35") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/8ff6b20f-3782-4dc7-9932-5d6dab6285e7"
-      (reference "K36") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K36") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/7c3ca494-13b0-4733-afe7-535da32926cc"
-      (reference "K37") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K37") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/c7cf6941-4732-4f87-beb5-c3bc1e7a4cb8"
-      (reference "K38") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K38") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/6a1f6d4e-edf9-4338-922a-5b65535be446"
-      (reference "K39") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K39") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/b549dd8f-d67e-4546-a04a-54e84edd43de"
-      (reference "K40") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K40") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/0e7822bf-eb1e-428a-927b-f4d753815882"
-      (reference "K41") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K41") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/ed2c28a6-5d3b-4867-8b7a-37191de00444"
-      (reference "K42") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K42") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/c931c68a-70e9-4aff-80db-063a560f9118"
-      (reference "K43") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K43") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/9846f765-4034-4c43-9df6-3d7ac7ff3a1f"
-      (reference "K44") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K44") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/e25b1a5b-e3d7-4fff-b19e-208e342e06bd"
-      (reference "K45") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K45") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/e7a2c282-da0c-4fff-b514-3ed51f9a772e"
-      (reference "K46") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K46") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/d6905442-e7ca-4550-8a1f-dd6d492eaf61"
-      (reference "K47") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K47") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/3499a77b-9f53-4955-a9a3-b95f6949b5e9"
-      (reference "K48") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K48") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/e21fad06-5951-4c01-9fe9-50fbec469021"
-      (reference "K49") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K49") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/32af2f27-11dc-4182-ba88-7a563b817ee1"
-      (reference "K50") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K50") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/124eed63-ab2f-4ba5-843a-8d73f53196e8"
-      (reference "K51") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K51") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/a957b675-2fac-49c1-8867-6c20b424f868"
-      (reference "K52") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K52") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/6e1465f0-43e8-4743-802e-8bb2f942ce1a"
-      (reference "K53") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K53") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/d1bc89b7-fd01-4151-aaac-e149721ba31c"
-      (reference "K54") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K54") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/09b263c9-a786-4504-a497-1f7d05ba8c51"
-      (reference "K55") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K55") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/63d18546-978a-4ade-b5df-12f3cfd04a15"
-      (reference "K56") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K56") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/14ca3e30-e0dc-4937-ba4b-97bbc066cbdf"
-      (reference "K57") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K57") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/f0b219f7-62b4-414f-8dd9-ab36e63610b5"
-      (reference "K58") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K58") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/f69cc679-a132-43f0-87fd-8eeb8238667b"
-      (reference "K59") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K59") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/f246f43b-8322-4b35-957b-172bea498a0f"
-      (reference "K60") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K60") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/7fcd0fc3-6311-4e5b-a461-70209535423d"
-      (reference "K61") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K61") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/848e47ec-729f-4ff6-87f3-fa9e701aa019"
-      (reference "K62") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K62") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/5a25f7fd-c957-4bdc-89ec-4e01a76b969c"
-      (reference "K63") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K63") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/0f3c39b9-6a1d-4291-a31b-676153fefe2a"
-      (reference "K64") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K64") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/bfd26882-2742-446b-be9e-bfd97765fe4f"
-      (reference "K65") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K65") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/dcdf810d-85ed-4fc1-8ac5-35e4f84330b9"
-      (reference "K66") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K66") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/57875f8b-222f-41df-a61a-944c35a4d7d4"
-      (reference "K67") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K67") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/9897ebd2-4e24-486c-b8c2-397b80e28290"
-      (reference "K68") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K68") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/4b08291b-1402-4b52-8dc3-4d365105fed3"
-      (reference "K69") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K69") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/75125fbf-76d0-44b3-9078-d8199ed112fb"
-      (reference "K70") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K70") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/d0101e26-8527-4fad-b8c1-8677610327ca"
-      (reference "K71") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K71") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/90d9217d-f414-4840-b1c2-5be421015420"
-      (reference "K72") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K72") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/3419a259-c4f2-4e60-aa8d-a10a0ebba155"
-      (reference "K73") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K73") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/b8ce6ff3-3293-4417-bb78-0ba51994e465"
-      (reference "K74") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K74") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/e01a3b5e-f65b-4a00-b816-8c122415ab0e"
-      (reference "K75") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K75") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/c79ccd11-1f40-4ea8-872b-057b8b67a6ec"
-      (reference "K76") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K76") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/f4fc1b6c-dcee-4ba8-a17b-d9492acd894c"
-      (reference "K77") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K77") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/b48e8d74-4b5d-4e0d-b764-6e649d1a5590"
-      (reference "K78") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K78") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/af94a1f0-df1b-4031-bf15-7c099562d4b6"
-      (reference "K79") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K79") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/158757a7-8607-4a25-9c85-c212ae9677bc"
-      (reference "K80") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K80") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/7579642d-a90f-47c1-ae26-38258c54bca5"
-      (reference "K81") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K81") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/b3726909-290f-49a1-92a6-662508481385"
-      (reference "K82") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K82") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/07fb6012-864f-4415-aaa9-89039b76c89f"
-      (reference "K83") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K83") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/9915e69d-4334-47d7-9141-acebb173755e"
-      (reference "K84") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K84") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/8e13f344-b80f-4bc6-b21f-b9c5caeedccb"
-      (reference "K85") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K85") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/97f81f00-ef62-48ae-a2bc-a559d55df2c4"
-      (reference "K86") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K86") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/431a886f-0366-450e-9433-efecde94f72b/1fae941b-1618-49dd-bd9c-4d0ad399ad91"
-      (reference "K87") (unit 1) (value "KEYSW") (footprint "keyswitches:Kailh_socket_MX_platemount")
+      (reference "K87") (unit 1) (value "KEYSW") (footprint "RamenKeebs:KAILH_PLATEMOUNT")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/dc47dc63-93ed-47df-91cd-d6ef69a315af"
       (reference "LED1") (unit 1) (value "RGB_LED") (footprint "RamenKeebs:QBLP677R-RGB")
@@ -2119,46 +2122,46 @@
       (reference "LED87") (unit 1) (value "RGB_LED") (footprint "RamenKeebs:QBLP677R-RGB")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/c664642b-80b7-4b3b-b278-d849c93c67db"
-      (reference "R1") (unit 1) (value "5k1") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R1") (unit 1) (value "5k1") (footprint "RamenKeebs:R_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/f0ab6efe-eca3-4a35-b9a5-baf79d328e4d"
-      (reference "R2") (unit 1) (value "22") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R2") (unit 1) (value "22") (footprint "RamenKeebs:R_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/7f6bffe6-d21e-48b9-a9e1-29131b33b5c9"
-      (reference "R3") (unit 1) (value "5k1") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R3") (unit 1) (value "5k1") (footprint "RamenKeebs:R_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/6deb229a-9887-461d-af3f-edb06617eb65"
-      (reference "R4") (unit 1) (value "22") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R4") (unit 1) (value "22") (footprint "RamenKeebs:R_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/b9cc7ee9-e6f6-4c06-aa0d-b014ad54d453"
-      (reference "R5") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R5") (unit 1) (value "10k") (footprint "RamenKeebs:R_0805")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/5210cf86-c1fb-425c-a54f-d11224d71a04"
-      (reference "R6") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R6") (unit 1) (value "10k") (footprint "RamenKeebs:R_0805")
     )
-    (path "/6995a5a7-467e-4188-add3-77353fedd806/dbb0627f-e6a0-44c3-b5d6-cfb5388d276f"
-      (reference "R7") (unit 1) (value "2k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    (path "/6995a5a7-467e-4188-add3-77353fedd806/6aaad831-f616-43b2-8c21-f4970143ed98"
+      (reference "R7") (unit 1) (value "2k") (footprint "RamenKeebs:R_0805")
     )
-    (path "/6995a5a7-467e-4188-add3-77353fedd806/2528ff7d-276b-468c-a841-332afa981cee"
-      (reference "R8") (unit 1) (value "2k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    (path "/6995a5a7-467e-4188-add3-77353fedd806/d01c1359-622f-4555-91fb-c459fd615f61"
+      (reference "R8") (unit 1) (value "2k") (footprint "RamenKeebs:R_0805")
     )
     (path "/6995a5a7-467e-4188-add3-77353fedd806/d6ab5938-477a-4cbd-ab37-7d0702c808c4"
-      (reference "R9") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R9") (unit 1) (value "100k") (footprint "RamenKeebs:R_0805")
     )
     (path "/6995a5a7-467e-4188-add3-77353fedd806/34a6a066-ea46-468c-80d0-66ac235dd2ca"
-      (reference "R10") (unit 1) (value "20k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R10") (unit 1) (value "20k") (footprint "RamenKeebs:R_0805")
     )
     (path "/f9d38c6b-93c2-4535-9207-8ebdf22381ac/fc11e9ca-a833-446c-9788-06571ec1968a"
-      (reference "R11") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R11") (unit 1) (value "100k") (footprint "RamenKeebs:R_0805")
     )
     (path "/f9d38c6b-93c2-4535-9207-8ebdf22381ac/0d1a7aa8-c616-4616-b6e0-4288a11264d0"
-      (reference "R12") (unit 1) (value "20k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R12") (unit 1) (value "20k") (footprint "RamenKeebs:R_0805")
     )
     (path "/5227f4c6-9480-4f57-9643-9bd5fd4b4b0f/c720abca-e3c1-4dc7-99bf-3246b5dc5e2d"
       (reference "SW1") (unit 1) (value "SW_PUSH") (footprint "SamacSys_Parts:TL3342F160QG")
     )
     (path "/5a5e2298-2365-486f-951b-f769ebeb805e"
-      (reference "U1") (unit 1) (value "ATMEGA32U4") (footprint "Keebio-Parts:ATMEGA32U4-AU")
+      (reference "U1") (unit 1) (value "ATMEGA32U4") (footprint "RamenKeebs:ATMEGA32U4-AUR")
     )
     (path "/fb80bd5c-a899-4229-a9b4-1dd49efe7c08/24765ec3-702d-4ae1-9a6a-7b00f79d0a61"
       (reference "U2") (unit 1) (value "IS31FL3733-TQ") (footprint "Package_QFP:TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm")

@@ -1,0 +1,5665 @@
+name: Ramen80  # Put the name of diagram here
+description: Full PCB diagram for the Ramen Keebs 80% keyboard # Put a short description of the diagram here
+components:
+    C1:
+        description: 0.47f  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C1.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C1.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C10:
+        description: 0.47f  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C10.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C10.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C11:
+        description: 0.47f  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C11.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C11.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C12:
+        description: 0.1f  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C12.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C12.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C13:
+        description: 0.1u  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C13.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C13.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C14:
+        description: 0.47f  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C14.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C14.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C15:
+        description: 0.1f  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C15.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C15.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C16:
+        description: 1u  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C16.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C16.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C17:
+        description: 0.47f  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C17.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C17.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C18:
+        description: 0.1f  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C18.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C18.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C19:
+        description: 0.47f  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C19.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C19.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C2:
+        description: 0.1f  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C2.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C2.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C20:
+        description: 0.1f  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C20.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C20.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C21:
+        description: 0.47f  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C21.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C21.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C22:
+        description: 0.1u  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C22.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C22.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C23:
+        description: 0.47f  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C23.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C23.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C24:
+        description: 0.1f  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /UCap
+                name: C24.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C24.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C25:
+        description: C  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to GND
+                name: C25.1
+                description: ''
+                groups: []
+            '2': # Connected to /XTAL1
+                name: C25.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C26:
+        description: C  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /XTAL2
+                name: C26.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C26.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C3:
+        description: 0.47f  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C3.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C3.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C4:
+        description: 4.7u  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C4.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C4.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C5:
+        description: 0.1u  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C5.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C5.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C6:
+        description: 0.1f  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C6.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C6.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C7:
+        description: 0.1f  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C7.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C7.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C8:
+        description: 0.47f  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C8.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C8.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    C9:
+        description: 0.1u  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: C9.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: C9.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D1:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF7
+                name: D1.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D1-Pad2)
+                name: D1.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D10:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF7
+                name: D10.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D10-Pad2)
+                name: D10.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D11:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF7
+                name: D11.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D11-Pad2)
+                name: D11.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D12:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF7
+                name: D12.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D12-Pad2)
+                name: D12.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D13:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF7
+                name: D13.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D13-Pad2)
+                name: D13.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D14:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF7
+                name: D14.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D14-Pad2)
+                name: D14.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D15:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF7
+                name: D15.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D15-Pad2)
+                name: D15.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D16:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF7
+                name: D16.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D16-Pad2)
+                name: D16.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D17:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF6
+                name: D17.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D17-Pad2)
+                name: D17.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D18:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF6
+                name: D18.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D18-Pad2)
+                name: D18.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D19:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF6
+                name: D19.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D19-Pad2)
+                name: D19.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D2:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF7
+                name: D2.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D2-Pad2)
+                name: D2.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D20:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF6
+                name: D20.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D20-Pad2)
+                name: D20.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D21:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF6
+                name: D21.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D21-Pad2)
+                name: D21.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D22:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF6
+                name: D22.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D22-Pad2)
+                name: D22.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D23:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF6
+                name: D23.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D23-Pad2)
+                name: D23.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D24:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF6
+                name: D24.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D24-Pad2)
+                name: D24.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D25:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF6
+                name: D25.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D25-Pad2)
+                name: D25.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D26:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF6
+                name: D26.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D26-Pad2)
+                name: D26.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D27:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF6
+                name: D27.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D27-Pad2)
+                name: D27.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D28:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF6
+                name: D28.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D28-Pad2)
+                name: D28.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D29:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF6
+                name: D29.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D29-Pad2)
+                name: D29.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D3:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF7
+                name: D3.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D3-Pad2)
+                name: D3.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D30:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF6
+                name: D30.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D30-Pad2)
+                name: D30.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D31:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF6
+                name: D31.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D31-Pad2)
+                name: D31.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D32:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF6
+                name: D32.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D32-Pad2)
+                name: D32.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D33:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF6
+                name: D33.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D33-Pad2)
+                name: D33.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D34:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF5
+                name: D34.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D34-Pad2)
+                name: D34.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D35:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF5
+                name: D35.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D35-Pad2)
+                name: D35.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D36:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF5
+                name: D36.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D36-Pad2)
+                name: D36.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D37:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF5
+                name: D37.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D37-Pad2)
+                name: D37.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D38:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF5
+                name: D38.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D38-Pad2)
+                name: D38.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D39:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF5
+                name: D39.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D39-Pad2)
+                name: D39.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D4:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF7
+                name: D4.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D4-Pad2)
+                name: D4.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D40:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF5
+                name: D40.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D40-Pad2)
+                name: D40.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D41:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF5
+                name: D41.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D41-Pad2)
+                name: D41.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D42:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF5
+                name: D42.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D42-Pad2)
+                name: D42.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D43:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF5
+                name: D43.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D43-Pad2)
+                name: D43.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D44:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF5
+                name: D44.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D44-Pad2)
+                name: D44.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D45:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF5
+                name: D45.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D45-Pad2)
+                name: D45.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D46:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF5
+                name: D46.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D46-Pad2)
+                name: D46.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D47:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF5
+                name: D47.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D47-Pad2)
+                name: D47.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D48:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF5
+                name: D48.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D48-Pad2)
+                name: D48.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D49:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF5
+                name: D49.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D49-Pad2)
+                name: D49.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D5:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF7
+                name: D5.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D5-Pad2)
+                name: D5.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D50:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF5
+                name: D50.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D50-Pad2)
+                name: D50.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D51:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF4
+                name: D51.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D51-Pad2)
+                name: D51.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D52:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF4
+                name: D52.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D52-Pad2)
+                name: D52.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D53:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF4
+                name: D53.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D53-Pad2)
+                name: D53.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D54:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF4
+                name: D54.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D54-Pad2)
+                name: D54.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D55:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF4
+                name: D55.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D55-Pad2)
+                name: D55.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D56:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF4
+                name: D56.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D56-Pad2)
+                name: D56.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D57:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF4
+                name: D57.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D57-Pad2)
+                name: D57.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D58:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF4
+                name: D58.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D58-Pad2)
+                name: D58.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D59:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF4
+                name: D59.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D59-Pad2)
+                name: D59.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D6:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF7
+                name: D6.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D6-Pad2)
+                name: D6.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D60:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF4
+                name: D60.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D60-Pad2)
+                name: D60.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D61:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF4
+                name: D61.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D61-Pad2)
+                name: D61.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D62:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF4
+                name: D62.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D62-Pad2)
+                name: D62.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D63:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF4
+                name: D63.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D63-Pad2)
+                name: D63.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D64:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF1
+                name: D64.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D64-Pad2)
+                name: D64.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D65:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF1
+                name: D65.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D65-Pad2)
+                name: D65.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D66:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF1
+                name: D66.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D66-Pad2)
+                name: D66.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D67:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF1
+                name: D67.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D67-Pad2)
+                name: D67.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D68:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF1
+                name: D68.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D68-Pad2)
+                name: D68.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D69:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF1
+                name: D69.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D69-Pad2)
+                name: D69.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D7:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF7
+                name: D7.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D7-Pad2)
+                name: D7.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D70:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF1
+                name: D70.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D70-Pad2)
+                name: D70.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D71:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF1
+                name: D71.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D71-Pad2)
+                name: D71.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D72:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF1
+                name: D72.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D72-Pad2)
+                name: D72.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D73:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF1
+                name: D73.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D73-Pad2)
+                name: D73.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D74:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF1
+                name: D74.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D74-Pad2)
+                name: D74.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D75:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF1
+                name: D75.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D75-Pad2)
+                name: D75.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D76:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF1
+                name: D76.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D76-Pad2)
+                name: D76.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D77:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF0
+                name: D77.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D77-Pad2)
+                name: D77.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D78:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF0
+                name: D78.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D78-Pad2)
+                name: D78.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D79:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF0
+                name: D79.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D79-Pad2)
+                name: D79.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D8:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF7
+                name: D8.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D8-Pad2)
+                name: D8.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D80:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF0
+                name: D80.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D80-Pad2)
+                name: D80.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D81:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF0
+                name: D81.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D81-Pad2)
+                name: D81.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D82:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF0
+                name: D82.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D82-Pad2)
+                name: D82.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D83:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF0
+                name: D83.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D83-Pad2)
+                name: D83.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D84:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF0
+                name: D84.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D84-Pad2)
+                name: D84.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D85:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF0
+                name: D85.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D85-Pad2)
+                name: D85.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D86:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF0
+                name: D86.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D86-Pad2)
+                name: D86.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D87:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF0
+                name: D87.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D87-Pad2)
+                name: D87.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    D9:
+        description: D  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PF7
+                name: D9.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D9-Pad2)
+                name: D9.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    J1:
+        description: 6 Pin AVR  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PB3
+                name: J1.1
+                description: ''
+                groups: []
+            '2': # Connected to VCC
+                name: J1.2
+                description: ''
+                groups: []
+            '3': # Connected to /PB1
+                name: J1.3
+                description: ''
+                groups: []
+            '4': # Connected to /PB2
+                name: J1.4
+                description: ''
+                groups: []
+            '5': # Connected to /Reset
+                name: J1.5
+                description: ''
+                groups: []
+            '6': # Connected to GND
+                name: J1.6
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    J2:
+        description: USB4505-03-0-A  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            A1_B12:  # Connected to unconnected-(J2-PadA1_B12)
+                name: J2.A1_B12
+                description: ''
+                groups: []
+            A4_B9: # Connected to VCC
+                name: J2.A4_B9
+                description: ''
+                groups: []
+            A5: # Connected to Net-(J2-PadA5)
+                name: J2.A5
+                description: ''
+                groups: []
+            A6: # Connected to /USB C Receptacle/Cap+
+                name: J2.A6
+                description: ''
+                groups: []
+            A7: # Connected to /USB C Receptacle/Cap-
+                name: J2.A7
+                description: ''
+                groups: []
+            A8: # Connected to unconnected-(J2-PadA8)
+                name: J2.A8
+                description: ''
+                groups: []
+            B1_A12: # Connected to GND
+                name: J2.B1_A12
+                description: ''
+                groups: []
+            B4_A9: # Connected to VCC
+                name: J2.B4_A9
+                description: ''
+                groups: []
+            B5: # Connected to Net-(J2-PadB5)
+                name: J2.B5
+                description: ''
+                groups: []
+            B6: # Connected to /USB C Receptacle/Cap+
+                name: J2.B6
+                description: ''
+                groups: []
+            B7: # Connected to /USB C Receptacle/Cap-
+                name: J2.B7
+                description: ''
+                groups: []
+            B8: # Connected to unconnected-(J2-PadB8)
+                name: J2.B8
+                description: ''
+                groups: []
+            S1: # Connected to GND
+                name: J2.S1
+                description: ''
+                groups: []
+            S2: # Connected to GND
+                name: J2.S2
+                description: ''
+                groups: []
+            S3: # Connected to GND
+                name: J2.S3
+                description: ''
+                groups: []
+            S4: # Connected to GND
+                name: J2.S4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K1:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K1.
+                description: ''
+                groups: []
+            '1': # Connected to /PE6
+                name: K1.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D1-Pad2)
+                name: K1.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K10:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K10.
+                description: ''
+                groups: []
+            '1': # Connected to /PD7
+                name: K10.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D10-Pad2)
+                name: K10.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K11:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K11.
+                description: ''
+                groups: []
+            '1': # Connected to /PB4
+                name: K11.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D11-Pad2)
+                name: K11.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K12:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K12.
+                description: ''
+                groups: []
+            '1': # Connected to /PB5
+                name: K12.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D12-Pad2)
+                name: K12.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K13:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K13.
+                description: ''
+                groups: []
+            '1': # Connected to /PB6
+                name: K13.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D13-Pad2)
+                name: K13.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K14:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K14.
+                description: ''
+                groups: []
+            '1': # Connected to /PC6
+                name: K14.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D14-Pad2)
+                name: K14.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K15:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K15.
+                description: ''
+                groups: []
+            '1': # Connected to /PC7
+                name: K15.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D15-Pad2)
+                name: K15.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K16:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K16.
+                description: ''
+                groups: []
+            '1': # Connected to /PE2
+                name: K16.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D16-Pad2)
+                name: K16.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K17:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K17.
+                description: ''
+                groups: []
+            '1': # Connected to /PE6
+                name: K17.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D17-Pad2)
+                name: K17.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K18:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K18.
+                description: ''
+                groups: []
+            '1': # Connected to /PB0
+                name: K18.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D18-Pad2)
+                name: K18.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K19:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K19.
+                description: ''
+                groups: []
+            '1': # Connected to /PB1
+                name: K19.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D19-Pad2)
+                name: K19.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K2:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K2.
+                description: ''
+                groups: []
+            '1': # Connected to /PB1
+                name: K2.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D2-Pad2)
+                name: K2.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K20:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K20.
+                description: ''
+                groups: []
+            '1': # Connected to /PB2
+                name: K20.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D20-Pad2)
+                name: K20.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K21:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K21.
+                description: ''
+                groups: []
+            '1': # Connected to /PB3
+                name: K21.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D21-Pad2)
+                name: K21.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K22:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K22.
+                description: ''
+                groups: []
+            '1': # Connected to /PB7
+                name: K22.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D22-Pad2)
+                name: K22.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K23:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K23.
+                description: ''
+                groups: []
+            '1': # Connected to /PD2
+                name: K23.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D23-Pad2)
+                name: K23.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K24:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K24.
+                description: ''
+                groups: []
+            '1': # Connected to /PD3
+                name: K24.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D24-Pad2)
+                name: K24.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K25:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K25.
+                description: ''
+                groups: []
+            '1': # Connected to /PD5
+                name: K25.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D25-Pad2)
+                name: K25.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K26:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K26.
+                description: ''
+                groups: []
+            '1': # Connected to /PD4
+                name: K26.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D26-Pad2)
+                name: K26.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K27:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K27.
+                description: ''
+                groups: []
+            '1': # Connected to /PD6
+                name: K27.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D27-Pad2)
+                name: K27.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K28:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K28.
+                description: ''
+                groups: []
+            '1': # Connected to /PD7
+                name: K28.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D28-Pad2)
+                name: K28.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K29:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K29.
+                description: ''
+                groups: []
+            '1': # Connected to /PB4
+                name: K29.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D29-Pad2)
+                name: K29.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K3:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K3.
+                description: ''
+                groups: []
+            '1': # Connected to /PB2
+                name: K3.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D3-Pad2)
+                name: K3.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K30:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K30.
+                description: ''
+                groups: []
+            '1': # Connected to /PB6
+                name: K30.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D30-Pad2)
+                name: K30.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K31:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K31.
+                description: ''
+                groups: []
+            '1': # Connected to /PC6
+                name: K31.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D31-Pad2)
+                name: K31.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K32:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K32.
+                description: ''
+                groups: []
+            '1': # Connected to /PC7
+                name: K32.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D32-Pad2)
+                name: K32.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K33:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K33.
+                description: ''
+                groups: []
+            '1': # Connected to /PE2
+                name: K33.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D33-Pad2)
+                name: K33.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K34:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K34.
+                description: ''
+                groups: []
+            '1': # Connected to /PE6
+                name: K34.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D34-Pad2)
+                name: K34.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K35:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K35.
+                description: ''
+                groups: []
+            '1': # Connected to /PB1
+                name: K35.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D35-Pad2)
+                name: K35.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K36:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K36.
+                description: ''
+                groups: []
+            '1': # Connected to /PB2
+                name: K36.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D36-Pad2)
+                name: K36.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K37:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K37.
+                description: ''
+                groups: []
+            '1': # Connected to /PB3
+                name: K37.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D37-Pad2)
+                name: K37.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K38:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K38.
+                description: ''
+                groups: []
+            '1': # Connected to /PB7
+                name: K38.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D38-Pad2)
+                name: K38.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K39:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K39.
+                description: ''
+                groups: []
+            '1': # Connected to /PD2
+                name: K39.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D39-Pad2)
+                name: K39.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K4:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K4.
+                description: ''
+                groups: []
+            '1': # Connected to /PB3
+                name: K4.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D4-Pad2)
+                name: K4.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K40:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K40.
+                description: ''
+                groups: []
+            '1': # Connected to /PD3
+                name: K40.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D40-Pad2)
+                name: K40.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K41:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K41.
+                description: ''
+                groups: []
+            '1': # Connected to /PD5
+                name: K41.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D41-Pad2)
+                name: K41.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K42:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K42.
+                description: ''
+                groups: []
+            '1': # Connected to /PD4
+                name: K42.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D42-Pad2)
+                name: K42.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K43:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K43.
+                description: ''
+                groups: []
+            '1': # Connected to /PD6
+                name: K43.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D43-Pad2)
+                name: K43.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K44:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K44.
+                description: ''
+                groups: []
+            '1': # Connected to /PD7
+                name: K44.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D44-Pad2)
+                name: K44.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K45:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K45.
+                description: ''
+                groups: []
+            '1': # Connected to /PB4
+                name: K45.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D45-Pad2)
+                name: K45.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K46:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K46.
+                description: ''
+                groups: []
+            '1': # Connected to /PB5
+                name: K46.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D46-Pad2)
+                name: K46.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K47:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K47.
+                description: ''
+                groups: []
+            '1': # Connected to /PB6
+                name: K47.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D47-Pad2)
+                name: K47.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K48:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K48.
+                description: ''
+                groups: []
+            '1': # Connected to /PC6
+                name: K48.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D48-Pad2)
+                name: K48.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K49:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K49.
+                description: ''
+                groups: []
+            '1': # Connected to /PC7
+                name: K49.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D49-Pad2)
+                name: K49.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K5:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K5.
+                description: ''
+                groups: []
+            '1': # Connected to /PB7
+                name: K5.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D5-Pad2)
+                name: K5.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K50:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K50.
+                description: ''
+                groups: []
+            '1': # Connected to /PE2
+                name: K50.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D50-Pad2)
+                name: K50.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K51:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K51.
+                description: ''
+                groups: []
+            '1': # Connected to /PE6
+                name: K51.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D51-Pad2)
+                name: K51.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K52:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K52.
+                description: ''
+                groups: []
+            '1': # Connected to /PB1
+                name: K52.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D52-Pad2)
+                name: K52.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K53:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K53.
+                description: ''
+                groups: []
+            '1': # Connected to /PB2
+                name: K53.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D53-Pad2)
+                name: K53.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K54:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K54.
+                description: ''
+                groups: []
+            '1': # Connected to /PB3
+                name: K54.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D54-Pad2)
+                name: K54.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K55:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K55.
+                description: ''
+                groups: []
+            '1': # Connected to /PB7
+                name: K55.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D55-Pad2)
+                name: K55.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K56:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K56.
+                description: ''
+                groups: []
+            '1': # Connected to /PD2
+                name: K56.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D56-Pad2)
+                name: K56.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K57:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K57.
+                description: ''
+                groups: []
+            '1': # Connected to /PD3
+                name: K57.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D57-Pad2)
+                name: K57.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K58:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K58.
+                description: ''
+                groups: []
+            '1': # Connected to /PD5
+                name: K58.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D58-Pad2)
+                name: K58.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K59:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K59.
+                description: ''
+                groups: []
+            '1': # Connected to /PD4
+                name: K59.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D59-Pad2)
+                name: K59.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K6:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K6.
+                description: ''
+                groups: []
+            '1': # Connected to /PD3
+                name: K6.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D6-Pad2)
+                name: K6.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K60:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K60.
+                description: ''
+                groups: []
+            '1': # Connected to /PD6
+                name: K60.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D60-Pad2)
+                name: K60.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K61:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K61.
+                description: ''
+                groups: []
+            '1': # Connected to /PD7
+                name: K61.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D61-Pad2)
+                name: K61.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K62:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K62.
+                description: ''
+                groups: []
+            '1': # Connected to /PB4
+                name: K62.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D62-Pad2)
+                name: K62.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K63:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K63.
+                description: ''
+                groups: []
+            '1': # Connected to /PB5
+                name: K63.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D63-Pad2)
+                name: K63.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K64:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K64.
+                description: ''
+                groups: []
+            '1': # Connected to /PB0
+                name: K64.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D64-Pad2)
+                name: K64.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K65:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K65.
+                description: ''
+                groups: []
+            '1': # Connected to /PB1
+                name: K65.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D65-Pad2)
+                name: K65.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K66:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K66.
+                description: ''
+                groups: []
+            '1': # Connected to /PB2
+                name: K66.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D66-Pad2)
+                name: K66.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K67:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K67.
+                description: ''
+                groups: []
+            '1': # Connected to /PB3
+                name: K67.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D67-Pad2)
+                name: K67.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K68:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K68.
+                description: ''
+                groups: []
+            '1': # Connected to /PB7
+                name: K68.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D68-Pad2)
+                name: K68.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K69:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K69.
+                description: ''
+                groups: []
+            '1': # Connected to /PD2
+                name: K69.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D69-Pad2)
+                name: K69.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K7:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K7.
+                description: ''
+                groups: []
+            '1': # Connected to /PD5
+                name: K7.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D7-Pad2)
+                name: K7.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K70:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K70.
+                description: ''
+                groups: []
+            '1': # Connected to /PD3
+                name: K70.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D70-Pad2)
+                name: K70.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K71:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K71.
+                description: ''
+                groups: []
+            '1': # Connected to /PD5
+                name: K71.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D71-Pad2)
+                name: K71.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K72:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K72.
+                description: ''
+                groups: []
+            '1': # Connected to /PD4
+                name: K72.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D72-Pad2)
+                name: K72.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K73:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K73.
+                description: ''
+                groups: []
+            '1': # Connected to /PD6
+                name: K73.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D73-Pad2)
+                name: K73.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K74:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K74.
+                description: ''
+                groups: []
+            '1': # Connected to /PD7
+                name: K74.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D74-Pad2)
+                name: K74.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K75:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K75.
+                description: ''
+                groups: []
+            '1': # Connected to /PB5
+                name: K75.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D75-Pad2)
+                name: K75.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K76:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K76.
+                description: ''
+                groups: []
+            '1': # Connected to /PC7
+                name: K76.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D76-Pad2)
+                name: K76.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K77:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K77.
+                description: ''
+                groups: []
+            '1': # Connected to /PE6
+                name: K77.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D77-Pad2)
+                name: K77.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K78:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K78.
+                description: ''
+                groups: []
+            '1': # Connected to /PB0
+                name: K78.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D78-Pad2)
+                name: K78.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K79:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K79.
+                description: ''
+                groups: []
+            '1': # Connected to /PB2
+                name: K79.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D79-Pad2)
+                name: K79.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K8:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K8.
+                description: ''
+                groups: []
+            '1': # Connected to /PD4
+                name: K8.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D8-Pad2)
+                name: K8.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K80:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K80.
+                description: ''
+                groups: []
+            '1': # Connected to /PD2
+                name: K80.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D80-Pad2)
+                name: K80.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K81:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K81.
+                description: ''
+                groups: []
+            '1': # Connected to /PD6
+                name: K81.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D81-Pad2)
+                name: K81.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K82:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K82.
+                description: ''
+                groups: []
+            '1': # Connected to /PD7
+                name: K82.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D82-Pad2)
+                name: K82.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K83:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K83.
+                description: ''
+                groups: []
+            '1': # Connected to /PB5
+                name: K83.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D83-Pad2)
+                name: K83.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K84:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K84.
+                description: ''
+                groups: []
+            '1': # Connected to /PB6
+                name: K84.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D84-Pad2)
+                name: K84.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K85:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K85.
+                description: ''
+                groups: []
+            '1': # Connected to /PC6
+                name: K85.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D85-Pad2)
+                name: K85.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K86:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K86.
+                description: ''
+                groups: []
+            '1': # Connected to /PC7
+                name: K86.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D86-Pad2)
+                name: K86.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K87:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K87.
+                description: ''
+                groups: []
+            '1': # Connected to /PE2
+                name: K87.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D87-Pad2)
+                name: K87.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    K9:
+        description: KEYSW  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: K9.
+                description: ''
+                groups: []
+            '1': # Connected to /PD6
+                name: K9.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(D9-Pad2)
+                name: K9.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED1:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW3
+                name: LED1.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW1
+                name: LED1.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW2
+                name: LED1.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS1
+                name: LED1.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED10:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW3
+                name: LED10.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW1
+                name: LED10.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW2
+                name: LED10.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS2
+                name: LED10.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED11:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW3
+                name: LED11.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW1
+                name: LED11.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW2
+                name: LED11.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS3
+                name: LED11.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED12:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW3
+                name: LED12.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW1
+                name: LED12.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW2
+                name: LED12.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS4
+                name: LED12.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED13:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW3
+                name: LED13.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW1
+                name: LED13.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW2
+                name: LED13.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS5
+                name: LED13.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED14:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW3
+                name: LED14.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW1
+                name: LED14.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW2
+                name: LED14.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS6
+                name: LED14.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED15:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW3
+                name: LED15.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW1
+                name: LED15.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW2
+                name: LED15.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS7
+                name: LED15.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED16:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW3
+                name: LED16.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW1
+                name: LED16.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW2
+                name: LED16.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS8
+                name: LED16.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED17:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW3
+                name: LED17.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW1
+                name: LED17.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW2
+                name: LED17.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS9 
+                name: LED17.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED18:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW3
+                name: LED18.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW1
+                name: LED18.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW2
+                name: LED18.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS10
+                name: LED18.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED19:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW3
+                name: LED19.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW1
+                name: LED19.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW2
+                name: LED19.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS11
+                name: LED19.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED2:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW3
+                name: LED2.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW1
+                name: LED2.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW2
+                name: LED2.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS2
+                name: LED2.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED20:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW3
+                name: LED20.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW1
+                name: LED20.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW2
+                name: LED20.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS12
+                name: LED20.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED21:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW3
+                name: LED21.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW1
+                name: LED21.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW2
+                name: LED21.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS13
+                name: LED21.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED22:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW3
+                name: LED22.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW1
+                name: LED22.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW2
+                name: LED22.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS14
+                name: LED22.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED23:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW3
+                name: LED23.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW1
+                name: LED23.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW2
+                name: LED23.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS15
+                name: LED23.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED24:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW3
+                name: LED24.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW1
+                name: LED24.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW2
+                name: LED24.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS16
+                name: LED24.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED25:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW3
+                name: LED25.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW1
+                name: LED25.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW2
+                name: LED25.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS9 
+                name: LED25.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED26:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW3
+                name: LED26.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW1
+                name: LED26.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW2
+                name: LED26.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS10
+                name: LED26.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED27:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW3
+                name: LED27.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW1
+                name: LED27.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW2
+                name: LED27.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS11
+                name: LED27.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED28:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW3
+                name: LED28.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW1
+                name: LED28.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW2
+                name: LED28.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS12
+                name: LED28.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED29:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW3
+                name: LED29.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW1
+                name: LED29.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW2
+                name: LED29.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS13
+                name: LED29.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED3:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW3
+                name: LED3.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW1
+                name: LED3.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW2
+                name: LED3.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS3
+                name: LED3.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED30:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW3
+                name: LED30.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW1
+                name: LED30.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW2
+                name: LED30.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS14
+                name: LED30.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED31:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW3
+                name: LED31.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW1
+                name: LED31.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW2
+                name: LED31.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS15
+                name: LED31.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED32:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW3
+                name: LED32.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW1
+                name: LED32.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW2
+                name: LED32.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS16
+                name: LED32.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED33:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW6
+                name: LED33.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW4
+                name: LED33.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW5
+                name: LED33.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS15
+                name: LED33.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED34:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW6
+                name: LED34.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW4
+                name: LED34.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW5
+                name: LED34.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS1
+                name: LED34.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED35:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW6
+                name: LED35.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW4
+                name: LED35.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW5
+                name: LED35.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS2
+                name: LED35.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED36:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW6
+                name: LED36.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW4
+                name: LED36.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW5
+                name: LED36.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS3
+                name: LED36.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED37:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW6
+                name: LED37.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW4
+                name: LED37.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW5
+                name: LED37.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS4
+                name: LED37.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED38:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW6
+                name: LED38.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW4
+                name: LED38.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW5
+                name: LED38.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS5
+                name: LED38.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED39:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW6
+                name: LED39.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW4
+                name: LED39.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW5
+                name: LED39.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS6
+                name: LED39.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED4:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW3
+                name: LED4.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW1
+                name: LED4.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW2
+                name: LED4.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS4
+                name: LED4.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED40:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW6
+                name: LED40.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW4
+                name: LED40.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW5
+                name: LED40.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS7
+                name: LED40.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED41:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW6
+                name: LED41.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW4
+                name: LED41.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW5
+                name: LED41.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS8
+                name: LED41.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED42:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW6
+                name: LED42.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW4
+                name: LED42.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW5
+                name: LED42.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS1
+                name: LED42.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED43:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW6
+                name: LED43.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW4
+                name: LED43.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW5
+                name: LED43.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS2
+                name: LED43.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED44:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW6
+                name: LED44.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW4
+                name: LED44.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW5
+                name: LED44.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS3
+                name: LED44.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED45:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW6
+                name: LED45.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW4
+                name: LED45.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW5
+                name: LED45.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS4
+                name: LED45.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED46:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW6
+                name: LED46.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW4
+                name: LED46.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW5
+                name: LED46.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS5
+                name: LED46.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED47:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW6
+                name: LED47.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW4
+                name: LED47.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW5
+                name: LED47.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS6
+                name: LED47.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED48:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW6
+                name: LED48.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW4
+                name: LED48.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW5
+                name: LED48.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS7
+                name: LED48.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED49:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW6
+                name: LED49.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW4
+                name: LED49.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW5
+                name: LED49.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS8
+                name: LED49.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED5:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW3
+                name: LED5.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW1
+                name: LED5.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW2
+                name: LED5.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS5
+                name: LED5.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED50:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW6
+                name: LED50.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW4
+                name: LED50.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW5
+                name: LED50.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS14
+                name: LED50.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED51:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW6
+                name: LED51.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW4
+                name: LED51.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW5
+                name: LED51.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS9 
+                name: LED51.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED52:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW6
+                name: LED52.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW4
+                name: LED52.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW5
+                name: LED52.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS10
+                name: LED52.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED53:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW6
+                name: LED53.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW4
+                name: LED53.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW5
+                name: LED53.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS11
+                name: LED53.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED54:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW6
+                name: LED54.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW4
+                name: LED54.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW5
+                name: LED54.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS12
+                name: LED54.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED55:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW6
+                name: LED55.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW4
+                name: LED55.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW5
+                name: LED55.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS13
+                name: LED55.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED56:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW6
+                name: LED56.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW4
+                name: LED56.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW5
+                name: LED56.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS14
+                name: LED56.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED57:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW6
+                name: LED57.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW4
+                name: LED57.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW5
+                name: LED57.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS15
+                name: LED57.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED58:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW6
+                name: LED58.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW4
+                name: LED58.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW5
+                name: LED58.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS16
+                name: LED58.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED59:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW6
+                name: LED59.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW4
+                name: LED59.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW5
+                name: LED59.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS9 
+                name: LED59.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED6:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW3
+                name: LED6.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW1
+                name: LED6.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW2
+                name: LED6.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS6
+                name: LED6.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED60:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW6
+                name: LED60.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW4
+                name: LED60.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW5
+                name: LED60.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS10
+                name: LED60.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED61:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW6
+                name: LED61.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW4
+                name: LED61.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW5
+                name: LED61.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS11
+                name: LED61.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED62:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW6
+                name: LED62.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW4
+                name: LED62.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW5
+                name: LED62.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS12
+                name: LED62.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED63:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW6
+                name: LED63.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW4
+                name: LED63.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW5
+                name: LED63.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS13
+                name: LED63.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED64:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW9 
+                name: LED64.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW7
+                name: LED64.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW8
+                name: LED64.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS1
+                name: LED64.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED65:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW9 
+                name: LED65.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW7
+                name: LED65.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW8
+                name: LED65.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS2
+                name: LED65.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED66:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW9 
+                name: LED66.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW7
+                name: LED66.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW8
+                name: LED66.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS3
+                name: LED66.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED67:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW9 
+                name: LED67.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW7
+                name: LED67.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW8
+                name: LED67.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS4
+                name: LED67.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED68:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW9 
+                name: LED68.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW7
+                name: LED68.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW8
+                name: LED68.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS5
+                name: LED68.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED69:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW9 
+                name: LED69.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW7
+                name: LED69.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW8
+                name: LED69.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS6
+                name: LED69.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED7:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW3
+                name: LED7.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW1
+                name: LED7.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW2
+                name: LED7.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS7
+                name: LED7.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED70:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW9 
+                name: LED70.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW7
+                name: LED70.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW8
+                name: LED70.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS7
+                name: LED70.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED71:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW9 
+                name: LED71.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW7
+                name: LED71.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW8
+                name: LED71.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS8
+                name: LED71.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED72:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW9
+                name: LED72.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW7
+                name: LED72.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW8
+                name: LED72.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS1
+                name: LED72.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED73:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW9
+                name: LED73.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW7
+                name: LED73.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW8
+                name: LED73.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS2
+                name: LED73.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED74:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW9
+                name: LED74.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW7
+                name: LED74.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW8
+                name: LED74.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS3
+                name: LED74.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED75:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW9
+                name: LED75.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW7
+                name: LED75.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW8
+                name: LED75.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS4
+                name: LED75.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED76:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW9
+                name: LED76.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW7
+                name: LED76.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW8
+                name: LED76.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS7
+                name: LED76.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED77:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW9 
+                name: LED77.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW7
+                name: LED77.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW8
+                name: LED77.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS9 
+                name: LED77.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED78:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW9 
+                name: LED78.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW7
+                name: LED78.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW8
+                name: LED78.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS10
+                name: LED78.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED79:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW9 
+                name: LED79.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW7
+                name: LED79.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW8
+                name: LED79.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS11
+                name: LED79.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED8:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW3
+                name: LED8.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW1
+                name: LED8.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW2
+                name: LED8.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS8
+                name: LED8.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED80:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/SW9 
+                name: LED80.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW7
+                name: LED80.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW8
+                name: LED80.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/CS14
+                name: LED80.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED81:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW9
+                name: LED81.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW7
+                name: LED81.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW8
+                name: LED81.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS9 
+                name: LED81.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED82:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW9
+                name: LED82.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW7
+                name: LED82.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW8
+                name: LED82.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS10
+                name: LED82.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED83:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW9
+                name: LED83.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW7
+                name: LED83.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW8
+                name: LED83.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS11
+                name: LED83.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED84:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW9
+                name: LED84.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW7
+                name: LED84.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW8
+                name: LED84.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS12
+                name: LED84.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED85:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW9
+                name: LED85.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW7
+                name: LED85.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW8
+                name: LED85.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS13
+                name: LED85.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED86:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW9
+                name: LED86.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW7
+                name: LED86.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW8
+                name: LED86.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS15
+                name: LED86.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED87:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW9
+                name: LED87.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW7
+                name: LED87.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW8
+                name: LED87.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS16
+                name: LED87.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    LED9:
+        description: RGB_LED  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /LED Matrix/2SW3
+                name: LED9.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW1
+                name: LED9.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW2
+                name: LED9.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2CS1
+                name: LED9.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    R1:
+        description: 5k1  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to GND
+                name: R1.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(R1-Pad2)
+                name: R1.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    R10:
+        description: 20k  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /USB C Receptacle/Cap-
+                name: R10.1
+                description: ''
+                groups: []
+            '2': # Connected to /D-
+                name: R10.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    R11:
+        description: 100k  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: R11.1
+                description: ''
+                groups: []
+            '2': # Connected to /Reset
+                name: R11.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    R12:
+        description: 20k  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PE2
+                name: R12.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: R12.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    R2:
+        description: '22'  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to Net-(R2-Pad1)
+                name: R2.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: R2.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    R3:
+        description: 5k1  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: R3.1
+                description: ''
+                groups: []
+            '2': # Connected to /PD1
+                name: R3.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    R4:
+        description: '22'  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to VCC
+                name: R4.1
+                description: ''
+                groups: []
+            '2': # Connected to /PD0
+                name: R4.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    R5:
+        description: 10k  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to GND
+                name: R5.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(R5-Pad2)
+                name: R5.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    R6:
+        description: 10k  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to Net-(R6-Pad1)
+                name: R6.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: R6.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    R7:
+        description: 2k  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to GND
+                name: R7.1
+                description: ''
+                groups: []
+            '2': # Connected to Net-(J2-PadA5)
+                name: R7.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    R8:
+        description: 2k  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to Net-(J2-PadB5)
+                name: R8.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: R8.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    R9:
+        description: 100k  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /USB C Receptacle/Cap+
+                name: R9.1
+                description: ''
+                groups: []
+            '2': # Connected to /D+
+                name: R9.2
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    SW1:
+        description: SW_PUSH  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /Reset
+                name: SW1.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: SW1.2
+                description: ''
+                groups: []
+            '3': # Connected to /Reset
+                name: SW1.3
+                description: ''
+                groups: []
+            '4': # Connected to GND
+                name: SW1.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    U1:
+        description: ATMEGA32U4  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /PE6
+                name: U1.1
+                description: ''
+                groups: []
+            '2': # Connected to VCC
+                name: U1.2
+                description: ''
+                groups: []
+            '3': # Connected to /D-
+                name: U1.3
+                description: ''
+                groups: []
+            '4': # Connected to /D+
+                name: U1.4
+                description: ''
+                groups: []
+            '5': # Connected to GND
+                name: U1.5
+                description: ''
+                groups: []
+            '6': # Connected to /UCap
+                name: U1.6
+                description: ''
+                groups: []
+            '7': # Connected to VCC
+                name: U1.7
+                description: ''
+                groups: []
+            '8': # Connected to /PB0
+                name: U1.8
+                description: ''
+                groups: []
+            '9': # Connected to /PB1
+                name: U1.9
+                description: ''
+                groups: []
+            '10': # Connected to /PB2
+                name: U1.10
+                description: ''
+                groups: []
+            '11': # Connected to /PB3
+                name: U1.11
+                description: ''
+                groups: []
+            '12': # Connected to /PB7
+                name: U1.12
+                description: ''
+                groups: []
+            '13': # Connected to /Reset
+                name: U1.13
+                description: ''
+                groups: []
+            '14': # Connected to VCC
+                name: U1.14
+                description: ''
+                groups: []
+            '15': # Connected to GND
+                name: U1.15
+                description: ''
+                groups: []
+            '16': # Connected to /XTAL1
+                name: U1.16
+                description: ''
+                groups: []
+            '17': # Connected to /XTAL2
+                name: U1.17
+                description: ''
+                groups: []
+            '18': # Connected to /PD0
+                name: U1.18
+                description: ''
+                groups: []
+            '19': # Connected to /PD1
+                name: U1.19
+                description: ''
+                groups: []
+            '20': # Connected to /PD2
+                name: U1.20
+                description: ''
+                groups: []
+            '21': # Connected to /PD3
+                name: U1.21
+                description: ''
+                groups: []
+            '22': # Connected to /PD5
+                name: U1.22
+                description: ''
+                groups: []
+            '23': # Connected to GND
+                name: U1.23
+                description: ''
+                groups: []
+            '24': # Connected to VCC
+                name: U1.24
+                description: ''
+                groups: []
+            '25': # Connected to /PD4
+                name: U1.25
+                description: ''
+                groups: []
+            '26': # Connected to /PD6
+                name: U1.26
+                description: ''
+                groups: []
+            '27': # Connected to /PD7
+                name: U1.27
+                description: ''
+                groups: []
+            '28': # Connected to /PB4
+                name: U1.28
+                description: ''
+                groups: []
+            '29': # Connected to /PB5
+                name: U1.29
+                description: ''
+                groups: []
+            '30': # Connected to /PB6
+                name: U1.30
+                description: ''
+                groups: []
+            '31': # Connected to /PC6
+                name: U1.31
+                description: ''
+                groups: []
+            '32': # Connected to /PC7
+                name: U1.32
+                description: ''
+                groups: []
+            '33': # Connected to /PE2
+                name: U1.33
+                description: ''
+                groups: []
+            '34': # Connected to VCC
+                name: U1.34
+                description: ''
+                groups: []
+            '35': # Connected to GND
+                name: U1.35
+                description: ''
+                groups: []
+            '36': # Connected to /PF7
+                name: U1.36
+                description: ''
+                groups: []
+            '37': # Connected to /PF6
+                name: U1.37
+                description: ''
+                groups: []
+            '38': # Connected to /PF5
+                name: U1.38
+                description: ''
+                groups: []
+            '39': # Connected to /PF4
+                name: U1.39
+                description: ''
+                groups: []
+            '40': # Connected to /PF1
+                name: U1.40
+                description: ''
+                groups: []
+            '41': # Connected to /PF0
+                name: U1.41
+                description: ''
+                groups: []
+            '42': # Connected to unconnected-(U1-Pad42)
+                name: U1.42
+                description: ''
+                groups: []
+            '43': # Connected to GND
+                name: U1.43
+                description: ''
+                groups: []
+            '44': # Connected to VCC
+                name: U1.44
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    U2:
+        description: IS31FL3733-TQ  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: U2.
+                description: ''
+                groups: []
+            '1': # Connected to unconnected-(U2-Pad1)
+                name: U2.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/SW1
+                name: U2.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/SW2
+                name: U2.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/SW3
+                name: U2.4
+                description: ''
+                groups: []
+            '5': # Connected to GND
+                name: U2.5
+                description: ''
+                groups: []
+            '6': # Connected to /LED Matrix/SW4
+                name: U2.6
+                description: ''
+                groups: []
+            '7': # Connected to /LED Matrix/SW5
+                name: U2.7
+                description: ''
+                groups: []
+            '8': # Connected to /LED Matrix/SW6
+                name: U2.8
+                description: ''
+                groups: []
+            '9': # Connected to /LED Matrix/SW7
+                name: U2.9
+                description: ''
+                groups: []
+            '10': # Connected to /LED Matrix/SW8
+                name: U2.10
+                description: ''
+                groups: []
+            '11': # Connected to /LED Matrix/SW9 
+                name: U2.11
+                description: ''
+                groups: []
+            '12': # Connected to GND
+                name: U2.12
+                description: ''
+                groups: []
+            '13': # Connected to unconnected-(U2-Pad13)
+                name: U2.13
+                description: ''
+                groups: []
+            '14': # Connected to unconnected-(U2-Pad14)
+                name: U2.14
+                description: ''
+                groups: []
+            '15': # Connected to unconnected-(U2-Pad15)
+                name: U2.15
+                description: ''
+                groups: []
+            '16': # Connected to /LED Matrix/CS1
+                name: U2.16
+                description: ''
+                groups: []
+            '17': # Connected to /LED Matrix/CS2
+                name: U2.17
+                description: ''
+                groups: []
+            '18': # Connected to /LED Matrix/CS3
+                name: U2.18
+                description: ''
+                groups: []
+            '19': # Connected to /LED Matrix/CS4
+                name: U2.19
+                description: ''
+                groups: []
+            '20': # Connected to VCC
+                name: U2.20
+                description: ''
+                groups: []
+            '21': # Connected to /LED Matrix/CS5
+                name: U2.21
+                description: ''
+                groups: []
+            '22': # Connected to /LED Matrix/CS6
+                name: U2.22
+                description: ''
+                groups: []
+            '23': # Connected to /LED Matrix/CS7
+                name: U2.23
+                description: ''
+                groups: []
+            '24': # Connected to /LED Matrix/CS8
+                name: U2.24
+                description: ''
+                groups: []
+            '25': # Connected to /LED Matrix/CS9 
+                name: U2.25
+                description: ''
+                groups: []
+            '26': # Connected to /LED Matrix/CS10
+                name: U2.26
+                description: ''
+                groups: []
+            '27': # Connected to /LED Matrix/CS11
+                name: U2.27
+                description: ''
+                groups: []
+            '28': # Connected to /LED Matrix/CS12
+                name: U2.28
+                description: ''
+                groups: []
+            '29': # Connected to VCC
+                name: U2.29
+                description: ''
+                groups: []
+            '30': # Connected to /LED Matrix/CS13
+                name: U2.30
+                description: ''
+                groups: []
+            '31': # Connected to /LED Matrix/CS14
+                name: U2.31
+                description: ''
+                groups: []
+            '32': # Connected to /LED Matrix/CS15
+                name: U2.32
+                description: ''
+                groups: []
+            '33': # Connected to /LED Matrix/CS16
+                name: U2.33
+                description: ''
+                groups: []
+            '34': # Connected to GND
+                name: U2.34
+                description: ''
+                groups: []
+            '35': # Connected to Net-(R2-Pad1)
+                name: U2.35
+                description: ''
+                groups: []
+            '36': # Connected to unconnected-(U2-Pad36)
+                name: U2.36
+                description: ''
+                groups: []
+            '37': # Connected to VCC
+                name: U2.37
+                description: ''
+                groups: []
+            '38': # Connected to VCC
+                name: U2.38
+                description: ''
+                groups: []
+            '39': # Connected to VCC
+                name: U2.39
+                description: ''
+                groups: []
+            '40': # Connected to /LED Matrix/Sync
+                name: U2.40
+                description: ''
+                groups: []
+            '41': # Connected to /PD1
+                name: U2.41
+                description: ''
+                groups: []
+            '42': # Connected to /PD0
+                name: U2.42
+                description: ''
+                groups: []
+            '43': # Connected to GND
+                name: U2.43
+                description: ''
+                groups: []
+            '44': # Connected to GND
+                name: U2.44
+                description: ''
+                groups: []
+            '45': # Connected to unconnected-(U2-Pad45)
+                name: U2.45
+                description: ''
+                groups: []
+            '46': # Connected to VCC
+                name: U2.46
+                description: ''
+                groups: []
+            '47': # Connected to Net-(R1-Pad2)
+                name: U2.47
+                description: ''
+                groups: []
+            '48': # Connected to GND
+                name: U2.48
+                description: ''
+                groups: []
+            '49': # Connected to GND
+                name: U2.49
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    U3:
+        description: IS31FL3733-TQ  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '':  # Connected to 
+                name: U3.
+                description: ''
+                groups: []
+            '1': # Connected to unconnected-(U3-Pad1)
+                name: U3.1
+                description: ''
+                groups: []
+            '2': # Connected to /LED Matrix/2SW1
+                name: U3.2
+                description: ''
+                groups: []
+            '3': # Connected to /LED Matrix/2SW2
+                name: U3.3
+                description: ''
+                groups: []
+            '4': # Connected to /LED Matrix/2SW3
+                name: U3.4
+                description: ''
+                groups: []
+            '5': # Connected to GND
+                name: U3.5
+                description: ''
+                groups: []
+            '6': # Connected to /LED Matrix/2SW4
+                name: U3.6
+                description: ''
+                groups: []
+            '7': # Connected to /LED Matrix/2SW5
+                name: U3.7
+                description: ''
+                groups: []
+            '8': # Connected to /LED Matrix/2SW6
+                name: U3.8
+                description: ''
+                groups: []
+            '9': # Connected to /LED Matrix/2SW7
+                name: U3.9
+                description: ''
+                groups: []
+            '10': # Connected to /LED Matrix/2SW8
+                name: U3.10
+                description: ''
+                groups: []
+            '11': # Connected to /LED Matrix/2SW9
+                name: U3.11
+                description: ''
+                groups: []
+            '12': # Connected to GND
+                name: U3.12
+                description: ''
+                groups: []
+            '13': # Connected to unconnected-(U3-Pad13)
+                name: U3.13
+                description: ''
+                groups: []
+            '14': # Connected to unconnected-(U3-Pad14)
+                name: U3.14
+                description: ''
+                groups: []
+            '15': # Connected to unconnected-(U3-Pad15)
+                name: U3.15
+                description: ''
+                groups: []
+            '16': # Connected to /LED Matrix/2CS1
+                name: U3.16
+                description: ''
+                groups: []
+            '17': # Connected to /LED Matrix/2CS2
+                name: U3.17
+                description: ''
+                groups: []
+            '18': # Connected to /LED Matrix/2CS3
+                name: U3.18
+                description: ''
+                groups: []
+            '19': # Connected to /LED Matrix/2CS4
+                name: U3.19
+                description: ''
+                groups: []
+            '20': # Connected to VCC
+                name: U3.20
+                description: ''
+                groups: []
+            '21': # Connected to /LED Matrix/2CS5
+                name: U3.21
+                description: ''
+                groups: []
+            '22': # Connected to /LED Matrix/2CS6
+                name: U3.22
+                description: ''
+                groups: []
+            '23': # Connected to /LED Matrix/2CS7
+                name: U3.23
+                description: ''
+                groups: []
+            '24': # Connected to /LED Matrix/2CS8
+                name: U3.24
+                description: ''
+                groups: []
+            '25': # Connected to /LED Matrix/2CS9 
+                name: U3.25
+                description: ''
+                groups: []
+            '26': # Connected to /LED Matrix/2CS10
+                name: U3.26
+                description: ''
+                groups: []
+            '27': # Connected to /LED Matrix/2CS11
+                name: U3.27
+                description: ''
+                groups: []
+            '28': # Connected to /LED Matrix/2CS12
+                name: U3.28
+                description: ''
+                groups: []
+            '29': # Connected to VCC
+                name: U3.29
+                description: ''
+                groups: []
+            '30': # Connected to /LED Matrix/2CS13
+                name: U3.30
+                description: ''
+                groups: []
+            '31': # Connected to /LED Matrix/2CS14
+                name: U3.31
+                description: ''
+                groups: []
+            '32': # Connected to /LED Matrix/2CS15
+                name: U3.32
+                description: ''
+                groups: []
+            '33': # Connected to /LED Matrix/2CS16
+                name: U3.33
+                description: ''
+                groups: []
+            '34': # Connected to GND
+                name: U3.34
+                description: ''
+                groups: []
+            '35': # Connected to Net-(R6-Pad1)
+                name: U3.35
+                description: ''
+                groups: []
+            '36': # Connected to unconnected-(U3-Pad36)
+                name: U3.36
+                description: ''
+                groups: []
+            '37': # Connected to VCC
+                name: U3.37
+                description: ''
+                groups: []
+            '38': # Connected to VCC
+                name: U3.38
+                description: ''
+                groups: []
+            '39': # Connected to VCC
+                name: U3.39
+                description: ''
+                groups: []
+            '40': # Connected to /LED Matrix/Sync
+                name: U3.40
+                description: ''
+                groups: []
+            '41': # Connected to /PD1
+                name: U3.41
+                description: ''
+                groups: []
+            '42': # Connected to /PD0
+                name: U3.42
+                description: ''
+                groups: []
+            '43': # Connected to VCC
+                name: U3.43
+                description: ''
+                groups: []
+            '44': # Connected to GND
+                name: U3.44
+                description: ''
+                groups: []
+            '45': # Connected to unconnected-(U3-Pad45)
+                name: U3.45
+                description: ''
+                groups: []
+            '46': # Connected to VCC
+                name: U3.46
+                description: ''
+                groups: []
+            '47': # Connected to Net-(R5-Pad2)
+                name: U3.47
+                description: ''
+                groups: []
+            '48': # Connected to GND
+                name: U3.48
+                description: ''
+                groups: []
+            '49': # Connected to GND
+                name: U3.49
+                description: ''
+                groups: []
+        highlight: true # Make the component active
+    Y1:
+        description: FA-238_16.0000MB-C3  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':  # Connected to /XTAL1
+                name: Y1.1
+                description: ''
+                groups: []
+            '2': # Connected to GND
+                name: Y1.2
+                description: ''
+                groups: []
+            '3': # Connected to /XTAL2
+                name: Y1.3
+                description: ''
+                groups: []
+            '4': # Connected to GND
+                name: Y1.4
+                description: ''
+                groups: []
+        highlight: true # Make the component active

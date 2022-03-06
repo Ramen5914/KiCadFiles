@@ -11,12 +11,12 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 1699)
+    (start_pass_no 1480)
     (layer_rule F.Cu
       (active on)
       (preferred_direction horizontal)
       (preferred_direction_trace_costs 1.0)
-      (against_preferred_direction_trace_costs 3.6)
+      (against_preferred_direction_trace_costs 3.7)
     )
     (layer_rule B.Cu
       (active on)
@@ -77,7 +77,7 @@
     "/LED Matrix/2CS8" "/LED Matrix/2CS9 " "/LED Matrix/2CS10" "/LED Matrix/2CS11" "/LED Matrix/2CS12" "/LED Matrix/2CS13" "/LED Matrix/2CS14" "/LED Matrix/2CS15"
     "/LED Matrix/2CS16" "unconnected-(U3-Pad36)" "unconnected-(U3-Pad45)" "/LED Matrix/2SW3" "/LED Matrix/2SW1" "/LED Matrix/2SW2" "/LED Matrix/2SW6" "/LED Matrix/2SW4"
     "/LED Matrix/2SW5" "Net-(J2-PadA5)" "unconnected-(U2-Pad15)" "unconnected-(U2-Pad14)" "unconnected-(U2-Pad13)" "Net-(R1-Pad2)" "Net-(R2-Pad1)" "Net-(R5-Pad2)"
-    "Net-(R6-Pad1)" "unconnected-(J2-PadA8)" "unconnected-(J2-PadB8)"
+    "Net-(R6-Pad1)" "unconnected-(J2-PadA8)" "unconnected-(J2-PadB8)" "unconnected-(J2-PadA1_B12)"
     (clearance_class default)
     (via_rule default)
     (rule
